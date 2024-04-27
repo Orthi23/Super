@@ -399,213 +399,306 @@ http://xtv.ooo:8080/Sehrish/12345/109993
 #EXTINF:-1, tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" tvg-name="Star Sports Select 2 (4K)"  group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 2 (4K)
 http://xtv.ooo:8080/Sehrish/12345/109994
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Nabab LLB: Chapter 2 (2021)" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" tvg-name="Nabab LLB: Chapter 2 (2021)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jaanbaaz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ui7ciB0ztK1egkMhiZTzEXfE10.jpg" group-title="BANGALI MOVIES",Jaanbaaz (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ui7ciB0ztK1egkMhiZTzEXfE10.jpg" tvg-name="Jaanbaaz (2019)"  group-title="BANGALI MOVIES",Jaanbaaz (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QJZWn5mgPjBvluEAGSPrIn1W6.jpg" group-title="BANGALI MOVIES",Troll (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QJZWn5mgPjBvluEAGSPrIn1W6.jpg" tvg-name="Troll (2021)"  group-title="BANGALI MOVIES",Troll (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Janowar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooyAqPOKLV9wLIIBOwCvK3tR6Ai.jpg" group-title="BANGALI MOVIES",Janowar (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooyAqPOKLV9wLIIBOwCvK3tR6Ai.jpg" tvg-name="Janowar (2021)"  group-title="BANGALI MOVIES",Janowar (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chuye Dile Mon (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI3xrqHdWj1XhfqZs0ChORWDPjj.jpg" group-title="BANGALI MOVIES",Chuye Dile Mon (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI3xrqHdWj1XhfqZs0ChORWDPjj.jpg" tvg-name="Chuye Dile Mon (2015)"  group-title="BANGALI MOVIES",Chuye Dile Mon (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nabab LLB: Chapter 1 (2020)" tvg-logo="https://1.bp.blogspot.com/-HFUXs8tecsw/X97QMeFangI/AAAAAAAAATQ/n2wT6BV_zvoGDq8iAPSHaeXDjQOgHbDkgCLcBGAsYHQ/s319/220px-Nabab_LLB_official_poster-01.jpeg" group-title="BANGALI MOVIES",Nabab LLB: Chapter 1 (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-HFUXs8tecsw/X97QMeFangI/AAAAAAAAATQ/n2wT6BV_zvoGDq8iAPSHaeXDjQOgHbDkgCLcBGAsYHQ/s319/220px-Nabab_LLB_official_poster-01.jpeg" tvg-name="Nabab LLB: Chapter 1 (2020)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 1 (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poloke Poloke Tomake Chai (2018)" tvg-logo="https://i.ibb.co/8MhHLDd/poloke-poloke-tomake-chai-bappi-mahi-bangla-movie-11.webp" group-title="BANGALI MOVIES",Poloke Poloke Tomake Chai (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/8MhHLDd/poloke-poloke-tomake-chai-bappi-mahi-bangla-movie-11.webp" tvg-name="Poloke Poloke Tomake Chai (2018)"  group-title="BANGALI MOVIES",Poloke Poloke Tomake Chai (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211396.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Made in Bangladesh (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VD0eWATSiSW02eeZPEK9EmYgsz.jpg" group-title="BANGALI MOVIES",Made in Bangladesh (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VD0eWATSiSW02eeZPEK9EmYgsz.jpg" tvg-name="Made in Bangladesh (2019)"  group-title="BANGALI MOVIES",Made in Bangladesh (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tobou Bhalobashi (2013)" tvg-logo="https://alchetron.com/cdn/tobuo-bhalobashi-a97435d6-e664-4592-b5eb-1aa1d99c130-resize-750.jpg" group-title="BANGALI MOVIES",Tobou Bhalobashi (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://alchetron.com/cdn/tobuo-bhalobashi-a97435d6-e664-4592-b5eb-1aa1d99c130-resize-750.jpg" tvg-name="Tobou Bhalobashi (2013)"  group-title="BANGALI MOVIES",Tobou Bhalobashi (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhuban Majhi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttqLIyYOiAH4DsZFiNSCAC47frq.jpg" group-title="BANGALI MOVIES",Bhuban Majhi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttqLIyYOiAH4DsZFiNSCAC47frq.jpg" tvg-name="Bhuban Majhi (2017)"  group-title="BANGALI MOVIES",Bhuban Majhi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ditio Koishor (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljY2Y0NzQtY2ZmOS00ZjQzLThkODUtZWVmYTg5NmM0NmE3XkEyXkFqcGdeQXVyODAzNDQ5MDg@._V1_.jpg" group-title="BANGALI MOVIES",Ditio Koishor (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljY2Y0NzQtY2ZmOS00ZjQzLThkODUtZWVmYTg5NmM0NmE3XkEyXkFqcGdeQXVyODAzNDQ5MDg@._V1_.jpg" tvg-name="Ditio Koishor (2019)"  group-title="BANGALI MOVIES",Ditio Koishor (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nolok (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b629Jo3Q5t385oS5kvr8j9Yx2G.jpg" group-title="BANGALI MOVIES",Nolok (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b629Jo3Q5t385oS5kvr8j9Yx2G.jpg" tvg-name="Nolok (2019)"  group-title="BANGALI MOVIES",Nolok (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rokto (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phwVQlCqSb4JkA1FgGAO4l0mXUF.jpg" group-title="BANGALI MOVIES",Rokto (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phwVQlCqSb4JkA1FgGAO4l0mXUF.jpg" tvg-name="Rokto (2016)"  group-title="BANGALI MOVIES",Rokto (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhushor Kuasha (2018)" tvg-logo="https://i.ibb.co/g7H6b17/E6nQddn.jpg" group-title="BANGALI MOVIES",Dhushor Kuasha (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/g7H6b17/E6nQddn.jpg" tvg-name="Dhushor Kuasha (2018)"  group-title="BANGALI MOVIES",Dhushor Kuasha (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piprabidya (2013)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM5MWI2NTEtNzliMy00MDZmLThmM2YtMjQzNGFhYzcxODYyXkEyXkFqcGdeQXVyMzk2ODUwNjk@._V1_.jpg" group-title="BANGALI MOVIES",Piprabidya (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM5MWI2NTEtNzliMy00MDZmLThmM2YtMjQzNGFhYzcxODYyXkEyXkFqcGdeQXVyMzk2ODUwNjk@._V1_.jpg" tvg-name="Piprabidya (2013)"  group-title="BANGALI MOVIES",Piprabidya (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bengali Beauty (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39V8mS7Pk4XQyHkit2uKAVrhT3r.jpg" group-title="BANGALI MOVIES",Bengali Beauty (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39V8mS7Pk4XQyHkit2uKAVrhT3r.jpg" tvg-name="Bengali Beauty (2018)"  group-title="BANGALI MOVIES",Bengali Beauty (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desha: The Leader (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rCifwLx0Gvqhk61se3ywe2bi42.jpg" group-title="BANGALI MOVIES",Desha: The Leader (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rCifwLx0Gvqhk61se3ywe2bi42.jpg" tvg-name="Desha: The Leader (2014)"  group-title="BANGALI MOVIES",Desha: The Leader (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doob (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDgHsH9CowwTcsH31Vbe6Ef0DTv.jpg" group-title="BANGALI MOVIES",Doob (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDgHsH9CowwTcsH31Vbe6Ef0DTv.jpg" tvg-name="Doob (2017)"  group-title="BANGALI MOVIES",Doob (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apon Manush (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxODQ2YjMtNTczOS00YmFjLTk1ZmUtOWNhYjlmMDU5NjE3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" group-title="BANGALI MOVIES",Apon Manush (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxODQ2YjMtNTczOS00YmFjLTk1ZmUtOWNhYjlmMDU5NjE3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" tvg-name="Apon Manush (2017)"  group-title="BANGALI MOVIES",Apon Manush (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ami Tomar Hote Chai (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY4NWJlODktNmU4MS00MWFiLWJhMTYtMGRjMWIyNDUzOGNjXkEyXkFqcGdeQXVyNTA3OTU1ODQ@._V1_.jpg" group-title="BANGALI MOVIES",Ami Tomar Hote Chai (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY4NWJlODktNmU4MS00MWFiLWJhMTYtMGRjMWIyNDUzOGNjXkEyXkFqcGdeQXVyNTA3OTU1ODQ@._V1_.jpg" tvg-name="Ami Tomar Hote Chai (2017)"  group-title="BANGALI MOVIES",Ami Tomar Hote Chai (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pashan (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjpIUyzWVYvaCnTGs087VOOLUYf.jpg" group-title="BANGALI MOVIES",Pashan (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjpIUyzWVYvaCnTGs087VOOLUYf.jpg" tvg-name="Pashan (2018)"  group-title="BANGALI MOVIES",Pashan (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mone Prane (2019)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710Os6anBqL._RI_.jpg" group-title="BANGALI MOVIES",Mone Prane (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710Os6anBqL._RI_.jpg" tvg-name="Mone Prane (2019)"  group-title="BANGALI MOVIES",Mone Prane (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Password (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkbklQtXeKDxyRoOf0EdVyEf6Yq.jpg" group-title="BANGALI MOVIES",Password (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkbklQtXeKDxyRoOf0EdVyEf6Yq.jpg" tvg-name="Password (2019)"  group-title="BANGALI MOVIES",Password (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhat Teri Ki (2017)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" group-title="BANGALI MOVIES",Dhat Teri Ki (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" tvg-name="Dhat Teri Ki (2017)"  group-title="BANGALI MOVIES",Dhat Teri Ki (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paathshala (2014)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" group-title="BANGALI MOVIES",Paathshala (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" tvg-name="Paathshala (2014)"  group-title="BANGALI MOVIES",Paathshala (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Premi O Premi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz3tkw4yHengDsxH1DTfrxwBSCx.jpg" group-title="BANGALI MOVIES",Premi O Premi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz3tkw4yHengDsxH1DTfrxwBSCx.jpg" tvg-name="Premi O Premi (2017)"  group-title="BANGALI MOVIES",Premi O Premi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211415.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Hero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIA1H1kWyxjvf6t7qpoeHwoIe2E.jpg" group-title="BANGALI MOVIES",Super Hero (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIA1H1kWyxjvf6t7qpoeHwoIe2E.jpg" tvg-name="Super Hero (2018)"  group-title="BANGALI MOVIES",Super Hero (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Koshtoneer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Da76UvImtbAcIFI6Ea3vmJfgcV.jpg" group-title="BANGALI MOVIES",Koshtoneer (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Da76UvImtbAcIFI6Ea3vmJfgcV.jpg" tvg-name="Koshtoneer (2021)"  group-title="BANGALI MOVIES",Koshtoneer (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211417.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Shikari (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PchxWbMFG6NzFwCcE0EYnxyYYc.jpg" group-title="BANGALI MOVIES",Shikari (2016)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PchxWbMFG6NzFwCcE0EYnxyYYc.jpg" tvg-name="Shikari (2016)"  group-title="BANGALI MOVIES",Shikari (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Astitva (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGAGCthCBGMuRuoKvRpw0EK0Ro0.jpg" group-title="BANGALI MOVIES",Astitva (2000)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGAGCthCBGMuRuoKvRpw0EK0Ro0.jpg" tvg-name="Astitva (2000)"  group-title="BANGALI MOVIES",Astitva (2000)
 http://xtv.ooo:8080/movie/Sehrish/12345/211421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hullor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4MwgNi3LAA1MZv7hHOCize25D.jpg" group-title="BANGALI MOVIES",Hullor (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4MwgNi3LAA1MZv7hHOCize25D.jpg" tvg-name="Hullor (2020)"  group-title="BANGALI MOVIES",Hullor (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toai (2018)" tvg-logo="https://pbs.twimg.com/media/EqEBjXmVoAA35z7.jpg" group-title="BANGALI MOVIES",Toai (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/EqEBjXmVoAA35z7.jpg" tvg-name="Toai (2018)"  group-title="BANGALI MOVIES",Toai (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boxer (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyaQjAhbQ0KlV6DGbeq0U06ZJ0.jpg" group-title="BANGALI MOVIES",Boxer (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyaQjAhbQ0KlV6DGbeq0U06ZJ0.jpg" tvg-name="Boxer (2015)"  group-title="BANGALI MOVIES",Boxer (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dracula Sir (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl458v3cVcj6KNu7QhDkQB5sCRj.jpg" group-title="BANGALI MOVIES",Dracula Sir (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl458v3cVcj6KNu7QhDkQB5sCRj.jpg" tvg-name="Dracula Sir (2020)"  group-title="BANGALI MOVIES",Dracula Sir (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chorabali (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GTTK6hxU4qyJMpppPSUlJK3A8V.jpg" group-title="BANGALI MOVIES",Chorabali (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GTTK6hxU4qyJMpppPSUlJK3A8V.jpg" tvg-name="Chorabali (2016)"  group-title="BANGALI MOVIES",Chorabali (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bishbashpo (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIwMzc2NDgtYjk1Zi00NjA1LTk4ZGMtOWIxNzVkNWIzMjYxXkEyXkFqcGdeQXVyOTM4OTkwODQ@._V1_.jpg" group-title="BANGALI MOVIES",Bishbashpo (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIwMzc2NDgtYjk1Zi00NjA1LTk4ZGMtOWIxNzVkNWIzMjYxXkEyXkFqcGdeQXVyOTM4OTkwODQ@._V1_.jpg" tvg-name="Bishbashpo (2020)"  group-title="BANGALI MOVIES",Bishbashpo (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" group-title="BANGALI MOVIES",Karma (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" tvg-name="Karma (2018)"  group-title="BANGALI MOVIES",Karma (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teen Patti (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AswMnBevN0MYxAFqvSX3CFg5U9f.jpg" group-title="BANGALI MOVIES",Teen Patti (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AswMnBevN0MYxAFqvSX3CFg5U9f.jpg" tvg-name="Teen Patti (2010)"  group-title="BANGALI MOVIES",Teen Patti (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Goyenda Tatar (2019)  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Goyenda_Tatar.jpg/220px-Goyenda_Tatar.jpg" group-title="BANGALI MOVIES",Goyenda Tatar (2019)  
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Goyenda_Tatar.jpg/220px-Goyenda_Tatar.jpg" tvg-name="Goyenda Tatar (2019)"  group-title="BANGALI MOVIES",Goyenda Tatar (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Byapika Biday (2020)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1765/831765-v" group-title="BANGALI MOVIES",Byapika Biday (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1765/831765-v" tvg-name="Byapika Biday (2020)"  group-title="BANGALI MOVIES",Byapika Biday (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jibansudha (2020)" tvg-logo="https://www.rangoliayurved.com/wp-content/uploads/2020/10/jeevan-sudha-normal-bottle.jpg" group-title="BANGALI MOVIES",Jibansudha (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.rangoliayurved.com/wp-content/uploads/2020/10/jeevan-sudha-normal-bottle.jpg" tvg-name="Jibansudha (2020)"  group-title="BANGALI MOVIES",Jibansudha (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211432.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhaijaan Elo Re (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JcYE4sr21pGiWcAN3OfpSgxysR.jpg" group-title="BANGALI MOVIES",Bhaijaan Elo Re (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JcYE4sr21pGiWcAN3OfpSgxysR.jpg" tvg-name="Bhaijaan Elo Re (2018)"  group-title="BANGALI MOVIES",Bhaijaan Elo Re (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dal Bhat (2020)" tvg-logo="https://www.196flavors.com/wp-content/uploads/2013/10/dal-bhat-Nepal.jpg" group-title="BANGALI MOVIES",Dal Bhat (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.196flavors.com/wp-content/uploads/2013/10/dal-bhat-Nepal.jpg" tvg-name="Dal Bhat (2020)"  group-title="BANGALI MOVIES",Dal Bhat (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Biye.Com (2020)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_auto,q_auto/resources/0-0-267723/portrait/1920x770_362302787.jpg" group-title="BANGALI MOVIES",Biye.Com (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_auto,q_auto/resources/0-0-267723/portrait/1920x770_362302787.jpg" tvg-name="Biye.Com (2020)"  group-title="BANGALI MOVIES",Biye.Com (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tui Sudhu Amar (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjM0NWItYmJiZS00MzdjLTg2ODYtNDhmZDhhMjZjOWJjXkEyXkFqcGdeQXVyODY4NDY5NDU@._V1_.jpg" group-title="BANGALI MOVIES",Tui Sudhu Amar (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjM0NWItYmJiZS00MzdjLTg2ODYtNDhmZDhhMjZjOWJjXkEyXkFqcGdeQXVyODY4NDY5NDU@._V1_.jpg" tvg-name="Tui Sudhu Amar (2018)"  group-title="BANGALI MOVIES",Tui Sudhu Amar (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211436.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antony Kobiyal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBxusUY9dG07wlCIlwMjvkklt6w.jpg" group-title="BANGALI MOVIES",Antony Kobiyal (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBxusUY9dG07wlCIlwMjvkklt6w.jpg" tvg-name="Antony Kobiyal (2020)"  group-title="BANGALI MOVIES",Antony Kobiyal (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211437.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chalbaaz (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TFQCJ3eHTjgM5PrQ3K1ES3Alu.jpg" group-title="BANGALI MOVIES",Chalbaaz (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TFQCJ3eHTjgM5PrQ3K1ES3Alu.jpg" tvg-name="Chalbaaz (2018)"  group-title="BANGALI MOVIES",Chalbaaz (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211438.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Mainkar Chipay (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRFBUKaDNQrlMQCSaxsfBZbcet.jpg" group-title="BANGALI MOVIES",Mainkar Chipay (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRFBUKaDNQrlMQCSaxsfBZbcet.jpg" tvg-name="Mainkar Chipay (2020)"  group-title="BANGALI MOVIES",Mainkar Chipay (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dugga (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWMOrMW5lRpMsr5QaypYFLp9jsK.jpg" group-title="BANGALI MOVIES",Dugga (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWMOrMW5lRpMsr5QaypYFLp9jsK.jpg" tvg-name="Dugga (2016)"  group-title="BANGALI MOVIES",Dugga (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jenana (2016)" tvg-logo="https://static.toiimg.com/thumb/msid-61256308,width-219,height-317,imgsize-35265/61256308.jpg" group-title="BANGALI MOVIES",Jenana (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.toiimg.com/thumb/msid-61256308,width-219,height-317,imgsize-35265/61256308.jpg" tvg-name="Jenana (2016)"  group-title="BANGALI MOVIES",Jenana (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sanjhbati (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwfaspljFjJk6PtE929g0JyRXNq.jpg" group-title="BANGALI MOVIES",Sanjhbati (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwfaspljFjJk6PtE929g0JyRXNq.jpg" tvg-name="Sanjhbati (2019)"  group-title="BANGALI MOVIES",Sanjhbati (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abasheshe (2011)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3ODI1NjktZTYwMC00NTk0LWEzNWQtZWNlYjU0ZmQ1NTRjXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" group-title="BANGALI MOVIES",Abasheshe (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3ODI1NjktZTYwMC00NTk0LWEzNWQtZWNlYjU0ZmQ1NTRjXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" tvg-name="Abasheshe (2011)"  group-title="BANGALI MOVIES",Abasheshe (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ekla Akash (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzk3FT8x1n3miBbp6h90ghLcGIm.jpg" group-title="BANGALI MOVIES",Ekla Akash (2012)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzk3FT8x1n3miBbp6h90ghLcGIm.jpg" tvg-name="Ekla Akash (2012)"  group-title="BANGALI MOVIES",Ekla Akash (2012)
 http://xtv.ooo:8080/movie/Sehrish/12345/211445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tuski (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4MmY1NzgtNjA0Ni00ZDVjLTg2NDUtZjU0NGVmMmE5ODk1XkEyXkFqcGdeQXVyMzc4NjYyMTY@._V1_.jpg" group-title="BANGALI MOVIES",Tuski (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4MmY1NzgtNjA0Ni00ZDVjLTg2NDUtZjU0NGVmMmE5ODk1XkEyXkFqcGdeQXVyMzc4NjYyMTY@._V1_.jpg" tvg-name="Tuski (2018)"  group-title="BANGALI MOVIES",Tuski (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Detective (2020)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/175001-176000/175075.jpg" group-title="BANGALI MOVIES",Detective (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/175001-176000/175075.jpg" tvg-name="Detective (2020)"  group-title="BANGALI MOVIES",Detective (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rang Milanti (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv65Qmu4rGG7HH2xuwkcHPnRmj.jpg" group-title="BANGALI MOVIES",Rang Milanti (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv65Qmu4rGG7HH2xuwkcHPnRmj.jpg" tvg-name="Rang Milanti (2011)"  group-title="BANGALI MOVIES",Rang Milanti (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Namte Namte (2013)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Namte_Namte_Bengali_Movie_Poster.jpg" group-title="BANGALI MOVIES",Namte Namte (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Namte_Namte_Bengali_Movie_Poster.jpg" tvg-name="Namte Namte (2013)"  group-title="BANGALI MOVIES",Namte Namte (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Autograph (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CI8elkjywicSMwfmnBK5KkbjWt.jpg" group-title="BANGALI MOVIES",Autograph (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CI8elkjywicSMwfmnBK5KkbjWt.jpg" tvg-name="Autograph (2010)"  group-title="BANGALI MOVIES",Autograph (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ganesh Talkies (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2LRgzTVWh4pBmz26MEnSl5VOvv.jpg" group-title="BANGALI MOVIES",Ganesh Talkies (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2LRgzTVWh4pBmz26MEnSl5VOvv.jpg" tvg-name="Ganesh Talkies (2013)"  group-title="BANGALI MOVIES",Ganesh Talkies (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="High JINN (2020)" tvg-logo="https://pbs.twimg.com/media/EeUO5pRUYAYrIpI.jpg" group-title="BANGALI MOVIES",High JINN (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/EeUO5pRUYAYrIpI.jpg" tvg-name="High JINN (2020)"  group-title="BANGALI MOVIES",High JINN (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amanush (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZuES3IbBojmzYtIq5vvjpTXPsr.jpg" group-title="BANGALI MOVIES",Amanush (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZuES3IbBojmzYtIq5vvjpTXPsr.jpg" tvg-name="Amanush (2010)"  group-title="BANGALI MOVIES",Amanush (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello Memsaheb (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJlJies7zuG9Y0cyMeqLHV9e1Zs.jpg" group-title="BANGALI MOVIES",Hello Memsaheb (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJlJies7zuG9Y0cyMeqLHV9e1Zs.jpg" tvg-name="Hello Memsaheb (2011)"  group-title="BANGALI MOVIES",Hello Memsaheb (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kanamachi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpJwHvGSZgF7m9a8f1I3uOt8gV9.jpg" group-title="BANGALI MOVIES",Kanamachi (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpJwHvGSZgF7m9a8f1I3uOt8gV9.jpg" tvg-name="Kanamachi (2013)"  group-title="BANGALI MOVIES",Kanamachi (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le Chakka (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byha5w0oD6ofu2bmgOMBCtbtBpX.jpg" group-title="BANGALI MOVIES",Le Chakka (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byha5w0oD6ofu2bmgOMBCtbtBpX.jpg" tvg-name="Le Chakka (2010)"  group-title="BANGALI MOVIES",Le Chakka (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nagarkirtan (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlSmcB19pgmlQVDzdlnZhNn3ZkeeN2ZmyDg3Kwg32_SALTWV8" group-title="BANGALI MOVIES",Nagarkirtan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlSmcB19pgmlQVDzdlnZhNn3ZkeeN2ZmyDg3Kwg32_SALTWV8" tvg-name="Nagarkirtan (2017)"  group-title="BANGALI MOVIES",Nagarkirtan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ludo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOZRcFSfmkbuQAH3iZVdLjohkxd.jpg" group-title="BANGALI MOVIES",Ludo (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOZRcFSfmkbuQAH3iZVdLjohkxd.jpg" tvg-name="Ludo (2015)"  group-title="BANGALI MOVIES",Ludo (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gorosthane Sabdhan (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" group-title="BANGALI MOVIES",Gorosthane Sabdhan (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" tvg-name="Gorosthane Sabdhan (2010)"  group-title="BANGALI MOVIES",Gorosthane Sabdhan (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kelor Kirti (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfKBYvCbERP1FMYIzvJYUuJhXcH.jpg" group-title="BANGALI MOVIES",Kelor Kirti (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfKBYvCbERP1FMYIzvJYUuJhXcH.jpg" tvg-name="Kelor Kirti (2016)"  group-title="BANGALI MOVIES",Kelor Kirti (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211461.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thik Dupure (Mid Day) (2020)" tvg-logo="https://bollyholic.click/wp-content/uploads/2020/06/photo_2020-06-24_02-39-39.jpg" group-title="BANGALI MOVIES",Thik Dupure (Mid Day) (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://bollyholic.click/wp-content/uploads/2020/06/photo_2020-06-24_02-39-39.jpg" tvg-name="Thik Dupure (Mid Day) (2020)"  group-title="BANGALI MOVIES",Thik Dupure (Mid Day) (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Chocolate (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8amchpxUAaPE7E3ocWLOEPFTjf.jpg" group-title="BANGALI MOVIES",Dark Chocolate (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8amchpxUAaPE7E3ocWLOEPFTjf.jpg" tvg-name="Dark Chocolate (2016)"  group-title="BANGALI MOVIES",Dark Chocolate (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMvXKD9qMcryqzx2No923KASvJQ.jpg" group-title="BANGALI MOVIES",Devi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMvXKD9qMcryqzx2No923KASvJQ.jpg" tvg-name="Devi (2017)"  group-title="BANGALI MOVIES",Devi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kellafate (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKBCNAho99F78z1cyEDxFBmXf4O.jpg" group-title="BANGALI MOVIES",Kellafate (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKBCNAho99F78z1cyEDxFBmXf4O.jpg" tvg-name="Kellafate (2010)"  group-title="BANGALI MOVIES",Kellafate (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211465.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yeti Obhijaan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm3seFCzhAUI5lQlqgwmrKPZdZq.jpg" group-title="BANGALI MOVIES",Yeti Obhijaan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm3seFCzhAUI5lQlqgwmrKPZdZq.jpg" tvg-name="Yeti Obhijaan (2017)"  group-title="BANGALI MOVIES",Yeti Obhijaan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211466.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nirontor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHZ9Kk8iLiDC4F3Q1BvDMBP3hX5.jpg" group-title="BANGALI MOVIES",Nirontor (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHZ9Kk8iLiDC4F3Q1BvDMBP3hX5.jpg" tvg-name="Nirontor (2020)"  group-title="BANGALI MOVIES",Nirontor (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211467.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Network (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAb7kHEP6xsWWGo68ei6ycfVKU.jpg" group-title="BANGALI MOVIES",The Network (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAb7kHEP6xsWWGo68ei6ycfVKU.jpg" tvg-name="The Network (2016)"  group-title="BANGALI MOVIES",The Network (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211468.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahaa Re (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17W0UtarKWr78JekWhehDawCr4S.jpg" group-title="BANGALI MOVIES",Ahaa Re (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17W0UtarKWr78JekWhehDawCr4S.jpg" tvg-name="Ahaa Re (2019)"  group-title="BANGALI MOVIES",Ahaa Re (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shantilal O Projapoti Rohoshyo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w0ZYG67riuKOMfJttpBkDRXdRv.jpg" group-title="BANGALI MOVIES",Shantilal O Projapoti Rohoshyo (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w0ZYG67riuKOMfJttpBkDRXdRv.jpg" tvg-name="Shantilal O Projapoti Rohoshyo (2019)"  group-title="BANGALI MOVIES",Shantilal O Projapoti Rohoshyo (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prem Ki Bujhini (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ARSaCscLG4WruvEG1yislPq2HJ.jpg" group-title="BANGALI MOVIES",Prem Ki Bujhini (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ARSaCscLG4WruvEG1yislPq2HJ.jpg" tvg-name="Prem Ki Bujhini (2016)"  group-title="BANGALI MOVIES",Prem Ki Bujhini (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bonku Babu (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8huuagrSpdrRSJXAdTcGaBEWjIm.jpg" group-title="BANGALI MOVIES",Bonku Babu (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8huuagrSpdrRSJXAdTcGaBEWjIm.jpg" tvg-name="Bonku Babu (2014)"  group-title="BANGALI MOVIES",Bonku Babu (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nilanjana (2020)" tvg-logo="https://i.extraimage.info/pix/2020/05/01/95217033_2515467998553464_200385813773549568_o7bd80.jpg" group-title="BANGALI MOVIES",Nilanjana (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.extraimage.info/pix/2020/05/01/95217033_2515467998553464_200385813773549568_o7bd80.jpg" tvg-name="Nilanjana (2020)"  group-title="BANGALI MOVIES",Nilanjana (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211475.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kedara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJj6CgFjBTSU5EJDqSrZ5guMzJ4.jpg" group-title="BANGALI MOVIES",Kedara (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJj6CgFjBTSU5EJDqSrZ5guMzJ4.jpg" tvg-name="Kedara (2019)"  group-title="BANGALI MOVIES",Kedara (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211476.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kathbirali (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22o4NjeRQJCWucqcd3ovz04tUee.jpg" group-title="BANGALI MOVIES",Kathbirali (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22o4NjeRQJCWucqcd3ovz04tUee.jpg" tvg-name="Kathbirali (2020)"  group-title="BANGALI MOVIES",Kathbirali (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211477.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manojder Adbhut Bari (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8RfanoGi2NHy5hkZs7DOyNxupW.jpg" group-title="BANGALI MOVIES",Manojder Adbhut Bari (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8RfanoGi2NHy5hkZs7DOyNxupW.jpg" tvg-name="Manojder Adbhut Bari (2018)"  group-title="BANGALI MOVIES",Manojder Adbhut Bari (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robibaar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh1650bVShbicmYFC9my94jKykj.jpg" group-title="BANGALI MOVIES",Robibaar (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh1650bVShbicmYFC9my94jKykj.jpg" tvg-name="Robibaar (2019)"  group-title="BANGALI MOVIES",Robibaar (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhananjay (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLvE4abdkSy3vMtxO80yuPeT1D.jpg" group-title="BANGALI MOVIES",Dhananjay (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLvE4abdkSy3vMtxO80yuPeT1D.jpg" tvg-name="Dhananjay (2017)"  group-title="BANGALI MOVIES",Dhananjay (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211480.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dwitiyo Purush (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cxnc8bZ7GCIRw6OzYWvv8JqqwJ.jpg" group-title="BANGALI MOVIES",Dwitiyo Purush (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cxnc8bZ7GCIRw6OzYWvv8JqqwJ.jpg" tvg-name="Dwitiyo Purush (2020)"  group-title="BANGALI MOVIES",Dwitiyo Purush (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211481.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piya Re (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeG4OKaGTP3Mq76wfHKfyiYDvEJ.jpg" group-title="BANGALI MOVIES",Piya Re (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeG4OKaGTP3Mq76wfHKfyiYDvEJ.jpg" tvg-name="Piya Re (2018)"  group-title="BANGALI MOVIES",Piya Re (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211482.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bilu Rakkhosh (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj99rseBUWX-EmaZRl6LWmv5WNJQ-xt9PMd-tCwJUcNijxnuxV" group-title="BANGALI MOVIES",Bilu Rakkhosh (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj99rseBUWX-EmaZRl6LWmv5WNJQ-xt9PMd-tCwJUcNijxnuxV" tvg-name="Bilu Rakkhosh (2017)"  group-title="BANGALI MOVIES",Bilu Rakkhosh (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baishe Srabon (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg" group-title="BANGALI MOVIES",Baishe Srabon (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg" tvg-name="Baishe Srabon (2011)"  group-title="BANGALI MOVIES",Baishe Srabon (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jodi Love Dile Na Prane (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CoFX2BUGJo16qpORzgSufQarK6.jpg" group-title="BANGALI MOVIES",Jodi Love Dile Na Prane (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CoFX2BUGJo16qpORzgSufQarK6.jpg" tvg-name="Jodi Love Dile Na Prane (2014)"  group-title="BANGALI MOVIES",Jodi Love Dile Na Prane (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211485.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Tui Amar Hero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" group-title="BANGALI MOVIES",Tui Amar Hero (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" tvg-name="Tui Amar Hero (2020)"  group-title="BANGALI MOVIES",Tui Amar Hero (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Hate Dhoka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" group-title="BANGALI MOVIES",Love Hate Dhoka (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" tvg-name="Love Hate Dhoka (2020)"  group-title="BANGALI MOVIES",Love Hate Dhoka (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ray & Liz (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg" group-title="BANGALI MOVIES",Ray & Liz (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg" tvg-name="Ray & Liz (2018)"  group-title="BANGALI MOVIES",Ray & Liz (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211489.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jamai Badal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" group-title="BANGALI MOVIES",Jamai Badal (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" tvg-name="Jamai Badal (2019)"  group-title="BANGALI MOVIES",Jamai Badal (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Switzerland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSIAb2xHBQ8xOLZqm2ltDrCqUpn.jpg" group-title="BANGALI MOVIES",Switzerland (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSIAb2xHBQ8xOLZqm2ltDrCqUpn.jpg" tvg-name="Switzerland (2018)"  group-title="BANGALI MOVIES",Switzerland (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unicorn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6cugcc0jIfRSlvEAxx2M866p8e.jpg" group-title="BANGALI MOVIES",Unicorn (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6cugcc0jIfRSlvEAxx2M866p8e.jpg" tvg-name="Unicorn (2021)"  group-title="BANGALI MOVIES",Unicorn (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211492.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barof (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="BANGALI MOVIES",Barof (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" tvg-name="Barof (2019)"  group-title="BANGALI MOVIES",Barof (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jawker Dhan (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="BANGALI MOVIES",Jawker Dhan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" tvg-name="Jawker Dhan (2017)"  group-title="BANGALI MOVIES",Jawker Dhan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guti Malhar Er Atithi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UUljq86NVkkBqbl6lpKMJnQVhL.jpg" group-title="BANGALI MOVIES",Guti Malhar Er Atithi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UUljq86NVkkBqbl6lpKMJnQVhL.jpg" tvg-name="Guti Malhar Er Atithi (2017)"  group-title="BANGALI MOVIES",Guti Malhar Er Atithi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K: Secret Eye (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icCn6JvHEp3KjTt9ApPAyUkhKVS.jpg" group-title="BANGALI MOVIES",K: Secret Eye (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icCn6JvHEp3KjTt9ApPAyUkhKVS.jpg" tvg-name="K: Secret Eye (2017)"  group-title="BANGALI MOVIES",K: Secret Eye (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211497.mkv
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" tvg-name="Nabab LLB: Chapter 2 (2021)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211390.mkv
 
@@ -1875,208 +1968,303 @@ http://xtv.ooo:8080/Sehrish/12345/153154
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" tvg-name="IND: Nick Junior"  group-title="INDIAN | KIDS Cartoon",IND: Nick Junior
 http://xtv.ooo:8080/Sehrish/12345/153156
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Nabab LLB: Chapter 2 (2021)" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" tvg-name="Nabab LLB: Chapter 2 (2021)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jaanbaaz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ui7ciB0ztK1egkMhiZTzEXfE10.jpg" group-title="BANGALI MOVIES",Jaanbaaz (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ui7ciB0ztK1egkMhiZTzEXfE10.jpg" tvg-name="Jaanbaaz (2019)"  group-title="BANGALI MOVIES",Jaanbaaz (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Troll (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QJZWn5mgPjBvluEAGSPrIn1W6.jpg" group-title="BANGALI MOVIES",Troll (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QJZWn5mgPjBvluEAGSPrIn1W6.jpg" tvg-name="Troll (2021)"  group-title="BANGALI MOVIES",Troll (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Janowar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooyAqPOKLV9wLIIBOwCvK3tR6Ai.jpg" group-title="BANGALI MOVIES",Janowar (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooyAqPOKLV9wLIIBOwCvK3tR6Ai.jpg" tvg-name="Janowar (2021)"  group-title="BANGALI MOVIES",Janowar (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chuye Dile Mon (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI3xrqHdWj1XhfqZs0ChORWDPjj.jpg" group-title="BANGALI MOVIES",Chuye Dile Mon (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI3xrqHdWj1XhfqZs0ChORWDPjj.jpg" tvg-name="Chuye Dile Mon (2015)"  group-title="BANGALI MOVIES",Chuye Dile Mon (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nabab LLB: Chapter 1 (2020)" tvg-logo="https://1.bp.blogspot.com/-HFUXs8tecsw/X97QMeFangI/AAAAAAAAATQ/n2wT6BV_zvoGDq8iAPSHaeXDjQOgHbDkgCLcBGAsYHQ/s319/220px-Nabab_LLB_official_poster-01.jpeg" group-title="BANGALI MOVIES",Nabab LLB: Chapter 1 (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-HFUXs8tecsw/X97QMeFangI/AAAAAAAAATQ/n2wT6BV_zvoGDq8iAPSHaeXDjQOgHbDkgCLcBGAsYHQ/s319/220px-Nabab_LLB_official_poster-01.jpeg" tvg-name="Nabab LLB: Chapter 1 (2020)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 1 (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poloke Poloke Tomake Chai (2018)" tvg-logo="https://i.ibb.co/8MhHLDd/poloke-poloke-tomake-chai-bappi-mahi-bangla-movie-11.webp" group-title="BANGALI MOVIES",Poloke Poloke Tomake Chai (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/8MhHLDd/poloke-poloke-tomake-chai-bappi-mahi-bangla-movie-11.webp" tvg-name="Poloke Poloke Tomake Chai (2018)"  group-title="BANGALI MOVIES",Poloke Poloke Tomake Chai (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211396.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Made in Bangladesh (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VD0eWATSiSW02eeZPEK9EmYgsz.jpg" group-title="BANGALI MOVIES",Made in Bangladesh (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VD0eWATSiSW02eeZPEK9EmYgsz.jpg" tvg-name="Made in Bangladesh (2019)"  group-title="BANGALI MOVIES",Made in Bangladesh (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tobou Bhalobashi (2013)" tvg-logo="https://alchetron.com/cdn/tobuo-bhalobashi-a97435d6-e664-4592-b5eb-1aa1d99c130-resize-750.jpg" group-title="BANGALI MOVIES",Tobou Bhalobashi (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://alchetron.com/cdn/tobuo-bhalobashi-a97435d6-e664-4592-b5eb-1aa1d99c130-resize-750.jpg" tvg-name="Tobou Bhalobashi (2013)"  group-title="BANGALI MOVIES",Tobou Bhalobashi (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhuban Majhi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttqLIyYOiAH4DsZFiNSCAC47frq.jpg" group-title="BANGALI MOVIES",Bhuban Majhi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttqLIyYOiAH4DsZFiNSCAC47frq.jpg" tvg-name="Bhuban Majhi (2017)"  group-title="BANGALI MOVIES",Bhuban Majhi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ditio Koishor (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljY2Y0NzQtY2ZmOS00ZjQzLThkODUtZWVmYTg5NmM0NmE3XkEyXkFqcGdeQXVyODAzNDQ5MDg@._V1_.jpg" group-title="BANGALI MOVIES",Ditio Koishor (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljY2Y0NzQtY2ZmOS00ZjQzLThkODUtZWVmYTg5NmM0NmE3XkEyXkFqcGdeQXVyODAzNDQ5MDg@._V1_.jpg" tvg-name="Ditio Koishor (2019)"  group-title="BANGALI MOVIES",Ditio Koishor (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nolok (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b629Jo3Q5t385oS5kvr8j9Yx2G.jpg" group-title="BANGALI MOVIES",Nolok (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b629Jo3Q5t385oS5kvr8j9Yx2G.jpg" tvg-name="Nolok (2019)"  group-title="BANGALI MOVIES",Nolok (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rokto (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phwVQlCqSb4JkA1FgGAO4l0mXUF.jpg" group-title="BANGALI MOVIES",Rokto (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phwVQlCqSb4JkA1FgGAO4l0mXUF.jpg" tvg-name="Rokto (2016)"  group-title="BANGALI MOVIES",Rokto (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhushor Kuasha (2018)" tvg-logo="https://i.ibb.co/g7H6b17/E6nQddn.jpg" group-title="BANGALI MOVIES",Dhushor Kuasha (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/g7H6b17/E6nQddn.jpg" tvg-name="Dhushor Kuasha (2018)"  group-title="BANGALI MOVIES",Dhushor Kuasha (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piprabidya (2013)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM5MWI2NTEtNzliMy00MDZmLThmM2YtMjQzNGFhYzcxODYyXkEyXkFqcGdeQXVyMzk2ODUwNjk@._V1_.jpg" group-title="BANGALI MOVIES",Piprabidya (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM5MWI2NTEtNzliMy00MDZmLThmM2YtMjQzNGFhYzcxODYyXkEyXkFqcGdeQXVyMzk2ODUwNjk@._V1_.jpg" tvg-name="Piprabidya (2013)"  group-title="BANGALI MOVIES",Piprabidya (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bengali Beauty (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39V8mS7Pk4XQyHkit2uKAVrhT3r.jpg" group-title="BANGALI MOVIES",Bengali Beauty (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39V8mS7Pk4XQyHkit2uKAVrhT3r.jpg" tvg-name="Bengali Beauty (2018)"  group-title="BANGALI MOVIES",Bengali Beauty (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desha: The Leader (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rCifwLx0Gvqhk61se3ywe2bi42.jpg" group-title="BANGALI MOVIES",Desha: The Leader (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rCifwLx0Gvqhk61se3ywe2bi42.jpg" tvg-name="Desha: The Leader (2014)"  group-title="BANGALI MOVIES",Desha: The Leader (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doob (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDgHsH9CowwTcsH31Vbe6Ef0DTv.jpg" group-title="BANGALI MOVIES",Doob (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDgHsH9CowwTcsH31Vbe6Ef0DTv.jpg" tvg-name="Doob (2017)"  group-title="BANGALI MOVIES",Doob (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apon Manush (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxODQ2YjMtNTczOS00YmFjLTk1ZmUtOWNhYjlmMDU5NjE3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" group-title="BANGALI MOVIES",Apon Manush (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxODQ2YjMtNTczOS00YmFjLTk1ZmUtOWNhYjlmMDU5NjE3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" tvg-name="Apon Manush (2017)"  group-title="BANGALI MOVIES",Apon Manush (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ami Tomar Hote Chai (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY4NWJlODktNmU4MS00MWFiLWJhMTYtMGRjMWIyNDUzOGNjXkEyXkFqcGdeQXVyNTA3OTU1ODQ@._V1_.jpg" group-title="BANGALI MOVIES",Ami Tomar Hote Chai (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY4NWJlODktNmU4MS00MWFiLWJhMTYtMGRjMWIyNDUzOGNjXkEyXkFqcGdeQXVyNTA3OTU1ODQ@._V1_.jpg" tvg-name="Ami Tomar Hote Chai (2017)"  group-title="BANGALI MOVIES",Ami Tomar Hote Chai (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pashan (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjpIUyzWVYvaCnTGs087VOOLUYf.jpg" group-title="BANGALI MOVIES",Pashan (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjpIUyzWVYvaCnTGs087VOOLUYf.jpg" tvg-name="Pashan (2018)"  group-title="BANGALI MOVIES",Pashan (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mone Prane (2019)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710Os6anBqL._RI_.jpg" group-title="BANGALI MOVIES",Mone Prane (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710Os6anBqL._RI_.jpg" tvg-name="Mone Prane (2019)"  group-title="BANGALI MOVIES",Mone Prane (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Password (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkbklQtXeKDxyRoOf0EdVyEf6Yq.jpg" group-title="BANGALI MOVIES",Password (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkbklQtXeKDxyRoOf0EdVyEf6Yq.jpg" tvg-name="Password (2019)"  group-title="BANGALI MOVIES",Password (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhat Teri Ki (2017)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" group-title="BANGALI MOVIES",Dhat Teri Ki (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" tvg-name="Dhat Teri Ki (2017)"  group-title="BANGALI MOVIES",Dhat Teri Ki (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Paathshala (2014)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" group-title="BANGALI MOVIES",Paathshala (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dhat_Teri_Ki_Teaser_Poster.jpeg" tvg-name="Paathshala (2014)"  group-title="BANGALI MOVIES",Paathshala (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Premi O Premi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz3tkw4yHengDsxH1DTfrxwBSCx.jpg" group-title="BANGALI MOVIES",Premi O Premi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz3tkw4yHengDsxH1DTfrxwBSCx.jpg" tvg-name="Premi O Premi (2017)"  group-title="BANGALI MOVIES",Premi O Premi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211415.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Hero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIA1H1kWyxjvf6t7qpoeHwoIe2E.jpg" group-title="BANGALI MOVIES",Super Hero (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIA1H1kWyxjvf6t7qpoeHwoIe2E.jpg" tvg-name="Super Hero (2018)"  group-title="BANGALI MOVIES",Super Hero (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Koshtoneer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Da76UvImtbAcIFI6Ea3vmJfgcV.jpg" group-title="BANGALI MOVIES",Koshtoneer (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Da76UvImtbAcIFI6Ea3vmJfgcV.jpg" tvg-name="Koshtoneer (2021)"  group-title="BANGALI MOVIES",Koshtoneer (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211417.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Shikari (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PchxWbMFG6NzFwCcE0EYnxyYYc.jpg" group-title="BANGALI MOVIES",Shikari (2016)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PchxWbMFG6NzFwCcE0EYnxyYYc.jpg" tvg-name="Shikari (2016)"  group-title="BANGALI MOVIES",Shikari (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Astitva (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGAGCthCBGMuRuoKvRpw0EK0Ro0.jpg" group-title="BANGALI MOVIES",Astitva (2000)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGAGCthCBGMuRuoKvRpw0EK0Ro0.jpg" tvg-name="Astitva (2000)"  group-title="BANGALI MOVIES",Astitva (2000)
 http://xtv.ooo:8080/movie/Sehrish/12345/211421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hullor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4MwgNi3LAA1MZv7hHOCize25D.jpg" group-title="BANGALI MOVIES",Hullor (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4MwgNi3LAA1MZv7hHOCize25D.jpg" tvg-name="Hullor (2020)"  group-title="BANGALI MOVIES",Hullor (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toai (2018)" tvg-logo="https://pbs.twimg.com/media/EqEBjXmVoAA35z7.jpg" group-title="BANGALI MOVIES",Toai (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/EqEBjXmVoAA35z7.jpg" tvg-name="Toai (2018)"  group-title="BANGALI MOVIES",Toai (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boxer (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyaQjAhbQ0KlV6DGbeq0U06ZJ0.jpg" group-title="BANGALI MOVIES",Boxer (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyaQjAhbQ0KlV6DGbeq0U06ZJ0.jpg" tvg-name="Boxer (2015)"  group-title="BANGALI MOVIES",Boxer (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dracula Sir (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl458v3cVcj6KNu7QhDkQB5sCRj.jpg" group-title="BANGALI MOVIES",Dracula Sir (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl458v3cVcj6KNu7QhDkQB5sCRj.jpg" tvg-name="Dracula Sir (2020)"  group-title="BANGALI MOVIES",Dracula Sir (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chorabali (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GTTK6hxU4qyJMpppPSUlJK3A8V.jpg" group-title="BANGALI MOVIES",Chorabali (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GTTK6hxU4qyJMpppPSUlJK3A8V.jpg" tvg-name="Chorabali (2016)"  group-title="BANGALI MOVIES",Chorabali (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bishbashpo (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIwMzc2NDgtYjk1Zi00NjA1LTk4ZGMtOWIxNzVkNWIzMjYxXkEyXkFqcGdeQXVyOTM4OTkwODQ@._V1_.jpg" group-title="BANGALI MOVIES",Bishbashpo (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIwMzc2NDgtYjk1Zi00NjA1LTk4ZGMtOWIxNzVkNWIzMjYxXkEyXkFqcGdeQXVyOTM4OTkwODQ@._V1_.jpg" tvg-name="Bishbashpo (2020)"  group-title="BANGALI MOVIES",Bishbashpo (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" group-title="BANGALI MOVIES",Karma (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" tvg-name="Karma (2018)"  group-title="BANGALI MOVIES",Karma (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teen Patti (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AswMnBevN0MYxAFqvSX3CFg5U9f.jpg" group-title="BANGALI MOVIES",Teen Patti (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AswMnBevN0MYxAFqvSX3CFg5U9f.jpg" tvg-name="Teen Patti (2010)"  group-title="BANGALI MOVIES",Teen Patti (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Goyenda Tatar (2019)  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Goyenda_Tatar.jpg/220px-Goyenda_Tatar.jpg" group-title="BANGALI MOVIES",Goyenda Tatar (2019)  
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Goyenda_Tatar.jpg/220px-Goyenda_Tatar.jpg" tvg-name="Goyenda Tatar (2019)"  group-title="BANGALI MOVIES",Goyenda Tatar (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Byapika Biday (2020)" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1765/831765-v" group-title="BANGALI MOVIES",Byapika Biday (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1765/831765-v" tvg-name="Byapika Biday (2020)"  group-title="BANGALI MOVIES",Byapika Biday (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jibansudha (2020)" tvg-logo="https://www.rangoliayurved.com/wp-content/uploads/2020/10/jeevan-sudha-normal-bottle.jpg" group-title="BANGALI MOVIES",Jibansudha (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.rangoliayurved.com/wp-content/uploads/2020/10/jeevan-sudha-normal-bottle.jpg" tvg-name="Jibansudha (2020)"  group-title="BANGALI MOVIES",Jibansudha (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211432.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhaijaan Elo Re (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JcYE4sr21pGiWcAN3OfpSgxysR.jpg" group-title="BANGALI MOVIES",Bhaijaan Elo Re (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JcYE4sr21pGiWcAN3OfpSgxysR.jpg" tvg-name="Bhaijaan Elo Re (2018)"  group-title="BANGALI MOVIES",Bhaijaan Elo Re (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dal Bhat (2020)" tvg-logo="https://www.196flavors.com/wp-content/uploads/2013/10/dal-bhat-Nepal.jpg" group-title="BANGALI MOVIES",Dal Bhat (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.196flavors.com/wp-content/uploads/2013/10/dal-bhat-Nepal.jpg" tvg-name="Dal Bhat (2020)"  group-title="BANGALI MOVIES",Dal Bhat (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Biye.Com (2020)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_auto,q_auto/resources/0-0-267723/portrait/1920x770_362302787.jpg" group-title="BANGALI MOVIES",Biye.Com (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_auto,q_auto/resources/0-0-267723/portrait/1920x770_362302787.jpg" tvg-name="Biye.Com (2020)"  group-title="BANGALI MOVIES",Biye.Com (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tui Sudhu Amar (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjM0NWItYmJiZS00MzdjLTg2ODYtNDhmZDhhMjZjOWJjXkEyXkFqcGdeQXVyODY4NDY5NDU@._V1_.jpg" group-title="BANGALI MOVIES",Tui Sudhu Amar (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3MjM0NWItYmJiZS00MzdjLTg2ODYtNDhmZDhhMjZjOWJjXkEyXkFqcGdeQXVyODY4NDY5NDU@._V1_.jpg" tvg-name="Tui Sudhu Amar (2018)"  group-title="BANGALI MOVIES",Tui Sudhu Amar (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211436.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antony Kobiyal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBxusUY9dG07wlCIlwMjvkklt6w.jpg" group-title="BANGALI MOVIES",Antony Kobiyal (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBxusUY9dG07wlCIlwMjvkklt6w.jpg" tvg-name="Antony Kobiyal (2020)"  group-title="BANGALI MOVIES",Antony Kobiyal (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211437.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chalbaaz (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TFQCJ3eHTjgM5PrQ3K1ES3Alu.jpg" group-title="BANGALI MOVIES",Chalbaaz (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6TFQCJ3eHTjgM5PrQ3K1ES3Alu.jpg" tvg-name="Chalbaaz (2018)"  group-title="BANGALI MOVIES",Chalbaaz (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211438.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Mainkar Chipay (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRFBUKaDNQrlMQCSaxsfBZbcet.jpg" group-title="BANGALI MOVIES",Mainkar Chipay (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRFBUKaDNQrlMQCSaxsfBZbcet.jpg" tvg-name="Mainkar Chipay (2020)"  group-title="BANGALI MOVIES",Mainkar Chipay (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dugga (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWMOrMW5lRpMsr5QaypYFLp9jsK.jpg" group-title="BANGALI MOVIES",Dugga (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWMOrMW5lRpMsr5QaypYFLp9jsK.jpg" tvg-name="Dugga (2016)"  group-title="BANGALI MOVIES",Dugga (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jenana (2016)" tvg-logo="https://static.toiimg.com/thumb/msid-61256308,width-219,height-317,imgsize-35265/61256308.jpg" group-title="BANGALI MOVIES",Jenana (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.toiimg.com/thumb/msid-61256308,width-219,height-317,imgsize-35265/61256308.jpg" tvg-name="Jenana (2016)"  group-title="BANGALI MOVIES",Jenana (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sanjhbati (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwfaspljFjJk6PtE929g0JyRXNq.jpg" group-title="BANGALI MOVIES",Sanjhbati (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwfaspljFjJk6PtE929g0JyRXNq.jpg" tvg-name="Sanjhbati (2019)"  group-title="BANGALI MOVIES",Sanjhbati (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abasheshe (2011)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3ODI1NjktZTYwMC00NTk0LWEzNWQtZWNlYjU0ZmQ1NTRjXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" group-title="BANGALI MOVIES",Abasheshe (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3ODI1NjktZTYwMC00NTk0LWEzNWQtZWNlYjU0ZmQ1NTRjXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" tvg-name="Abasheshe (2011)"  group-title="BANGALI MOVIES",Abasheshe (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ekla Akash (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzk3FT8x1n3miBbp6h90ghLcGIm.jpg" group-title="BANGALI MOVIES",Ekla Akash (2012)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzk3FT8x1n3miBbp6h90ghLcGIm.jpg" tvg-name="Ekla Akash (2012)"  group-title="BANGALI MOVIES",Ekla Akash (2012)
 http://xtv.ooo:8080/movie/Sehrish/12345/211445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tuski (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4MmY1NzgtNjA0Ni00ZDVjLTg2NDUtZjU0NGVmMmE5ODk1XkEyXkFqcGdeQXVyMzc4NjYyMTY@._V1_.jpg" group-title="BANGALI MOVIES",Tuski (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ4MmY1NzgtNjA0Ni00ZDVjLTg2NDUtZjU0NGVmMmE5ODk1XkEyXkFqcGdeQXVyMzc4NjYyMTY@._V1_.jpg" tvg-name="Tuski (2018)"  group-title="BANGALI MOVIES",Tuski (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Detective (2020)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/175001-176000/175075.jpg" group-title="BANGALI MOVIES",Detective (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/175001-176000/175075.jpg" tvg-name="Detective (2020)"  group-title="BANGALI MOVIES",Detective (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rang Milanti (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv65Qmu4rGG7HH2xuwkcHPnRmj.jpg" group-title="BANGALI MOVIES",Rang Milanti (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv65Qmu4rGG7HH2xuwkcHPnRmj.jpg" tvg-name="Rang Milanti (2011)"  group-title="BANGALI MOVIES",Rang Milanti (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Namte Namte (2013)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Namte_Namte_Bengali_Movie_Poster.jpg" group-title="BANGALI MOVIES",Namte Namte (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Namte_Namte_Bengali_Movie_Poster.jpg" tvg-name="Namte Namte (2013)"  group-title="BANGALI MOVIES",Namte Namte (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Autograph (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CI8elkjywicSMwfmnBK5KkbjWt.jpg" group-title="BANGALI MOVIES",Autograph (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CI8elkjywicSMwfmnBK5KkbjWt.jpg" tvg-name="Autograph (2010)"  group-title="BANGALI MOVIES",Autograph (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ganesh Talkies (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2LRgzTVWh4pBmz26MEnSl5VOvv.jpg" group-title="BANGALI MOVIES",Ganesh Talkies (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2LRgzTVWh4pBmz26MEnSl5VOvv.jpg" tvg-name="Ganesh Talkies (2013)"  group-title="BANGALI MOVIES",Ganesh Talkies (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="High JINN (2020)" tvg-logo="https://pbs.twimg.com/media/EeUO5pRUYAYrIpI.jpg" group-title="BANGALI MOVIES",High JINN (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/EeUO5pRUYAYrIpI.jpg" tvg-name="High JINN (2020)"  group-title="BANGALI MOVIES",High JINN (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amanush (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZuES3IbBojmzYtIq5vvjpTXPsr.jpg" group-title="BANGALI MOVIES",Amanush (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZuES3IbBojmzYtIq5vvjpTXPsr.jpg" tvg-name="Amanush (2010)"  group-title="BANGALI MOVIES",Amanush (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hello Memsaheb (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJlJies7zuG9Y0cyMeqLHV9e1Zs.jpg" group-title="BANGALI MOVIES",Hello Memsaheb (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJlJies7zuG9Y0cyMeqLHV9e1Zs.jpg" tvg-name="Hello Memsaheb (2011)"  group-title="BANGALI MOVIES",Hello Memsaheb (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kanamachi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpJwHvGSZgF7m9a8f1I3uOt8gV9.jpg" group-title="BANGALI MOVIES",Kanamachi (2013)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpJwHvGSZgF7m9a8f1I3uOt8gV9.jpg" tvg-name="Kanamachi (2013)"  group-title="BANGALI MOVIES",Kanamachi (2013)
 http://xtv.ooo:8080/movie/Sehrish/12345/211455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le Chakka (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byha5w0oD6ofu2bmgOMBCtbtBpX.jpg" group-title="BANGALI MOVIES",Le Chakka (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byha5w0oD6ofu2bmgOMBCtbtBpX.jpg" tvg-name="Le Chakka (2010)"  group-title="BANGALI MOVIES",Le Chakka (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nagarkirtan (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlSmcB19pgmlQVDzdlnZhNn3ZkeeN2ZmyDg3Kwg32_SALTWV8" group-title="BANGALI MOVIES",Nagarkirtan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlSmcB19pgmlQVDzdlnZhNn3ZkeeN2ZmyDg3Kwg32_SALTWV8" tvg-name="Nagarkirtan (2017)"  group-title="BANGALI MOVIES",Nagarkirtan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ludo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOZRcFSfmkbuQAH3iZVdLjohkxd.jpg" group-title="BANGALI MOVIES",Ludo (2015)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOZRcFSfmkbuQAH3iZVdLjohkxd.jpg" tvg-name="Ludo (2015)"  group-title="BANGALI MOVIES",Ludo (2015)
 http://xtv.ooo:8080/movie/Sehrish/12345/211458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gorosthane Sabdhan (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" group-title="BANGALI MOVIES",Gorosthane Sabdhan (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txfHZAKr7kdY1MZFktJPg17RHeP.jpg" tvg-name="Gorosthane Sabdhan (2010)"  group-title="BANGALI MOVIES",Gorosthane Sabdhan (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kelor Kirti (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfKBYvCbERP1FMYIzvJYUuJhXcH.jpg" group-title="BANGALI MOVIES",Kelor Kirti (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfKBYvCbERP1FMYIzvJYUuJhXcH.jpg" tvg-name="Kelor Kirti (2016)"  group-title="BANGALI MOVIES",Kelor Kirti (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211461.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thik Dupure (Mid Day) (2020)" tvg-logo="https://bollyholic.click/wp-content/uploads/2020/06/photo_2020-06-24_02-39-39.jpg" group-title="BANGALI MOVIES",Thik Dupure (Mid Day) (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://bollyholic.click/wp-content/uploads/2020/06/photo_2020-06-24_02-39-39.jpg" tvg-name="Thik Dupure (Mid Day) (2020)"  group-title="BANGALI MOVIES",Thik Dupure (Mid Day) (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Chocolate (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8amchpxUAaPE7E3ocWLOEPFTjf.jpg" group-title="BANGALI MOVIES",Dark Chocolate (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8amchpxUAaPE7E3ocWLOEPFTjf.jpg" tvg-name="Dark Chocolate (2016)"  group-title="BANGALI MOVIES",Dark Chocolate (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMvXKD9qMcryqzx2No923KASvJQ.jpg" group-title="BANGALI MOVIES",Devi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMvXKD9qMcryqzx2No923KASvJQ.jpg" tvg-name="Devi (2017)"  group-title="BANGALI MOVIES",Devi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kellafate (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKBCNAho99F78z1cyEDxFBmXf4O.jpg" group-title="BANGALI MOVIES",Kellafate (2010)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKBCNAho99F78z1cyEDxFBmXf4O.jpg" tvg-name="Kellafate (2010)"  group-title="BANGALI MOVIES",Kellafate (2010)
 http://xtv.ooo:8080/movie/Sehrish/12345/211465.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yeti Obhijaan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm3seFCzhAUI5lQlqgwmrKPZdZq.jpg" group-title="BANGALI MOVIES",Yeti Obhijaan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm3seFCzhAUI5lQlqgwmrKPZdZq.jpg" tvg-name="Yeti Obhijaan (2017)"  group-title="BANGALI MOVIES",Yeti Obhijaan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211466.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nirontor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHZ9Kk8iLiDC4F3Q1BvDMBP3hX5.jpg" group-title="BANGALI MOVIES",Nirontor (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHZ9Kk8iLiDC4F3Q1BvDMBP3hX5.jpg" tvg-name="Nirontor (2020)"  group-title="BANGALI MOVIES",Nirontor (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211467.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Network (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAb7kHEP6xsWWGo68ei6ycfVKU.jpg" group-title="BANGALI MOVIES",The Network (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAb7kHEP6xsWWGo68ei6ycfVKU.jpg" tvg-name="The Network (2016)"  group-title="BANGALI MOVIES",The Network (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211468.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahaa Re (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17W0UtarKWr78JekWhehDawCr4S.jpg" group-title="BANGALI MOVIES",Ahaa Re (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17W0UtarKWr78JekWhehDawCr4S.jpg" tvg-name="Ahaa Re (2019)"  group-title="BANGALI MOVIES",Ahaa Re (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shantilal O Projapoti Rohoshyo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w0ZYG67riuKOMfJttpBkDRXdRv.jpg" group-title="BANGALI MOVIES",Shantilal O Projapoti Rohoshyo (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w0ZYG67riuKOMfJttpBkDRXdRv.jpg" tvg-name="Shantilal O Projapoti Rohoshyo (2019)"  group-title="BANGALI MOVIES",Shantilal O Projapoti Rohoshyo (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prem Ki Bujhini (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ARSaCscLG4WruvEG1yislPq2HJ.jpg" group-title="BANGALI MOVIES",Prem Ki Bujhini (2016)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ARSaCscLG4WruvEG1yislPq2HJ.jpg" tvg-name="Prem Ki Bujhini (2016)"  group-title="BANGALI MOVIES",Prem Ki Bujhini (2016)
 http://xtv.ooo:8080/movie/Sehrish/12345/211473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bonku Babu (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8huuagrSpdrRSJXAdTcGaBEWjIm.jpg" group-title="BANGALI MOVIES",Bonku Babu (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8huuagrSpdrRSJXAdTcGaBEWjIm.jpg" tvg-name="Bonku Babu (2014)"  group-title="BANGALI MOVIES",Bonku Babu (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nilanjana (2020)" tvg-logo="https://i.extraimage.info/pix/2020/05/01/95217033_2515467998553464_200385813773549568_o7bd80.jpg" group-title="BANGALI MOVIES",Nilanjana (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.extraimage.info/pix/2020/05/01/95217033_2515467998553464_200385813773549568_o7bd80.jpg" tvg-name="Nilanjana (2020)"  group-title="BANGALI MOVIES",Nilanjana (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211475.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kedara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJj6CgFjBTSU5EJDqSrZ5guMzJ4.jpg" group-title="BANGALI MOVIES",Kedara (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJj6CgFjBTSU5EJDqSrZ5guMzJ4.jpg" tvg-name="Kedara (2019)"  group-title="BANGALI MOVIES",Kedara (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211476.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kathbirali (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22o4NjeRQJCWucqcd3ovz04tUee.jpg" group-title="BANGALI MOVIES",Kathbirali (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22o4NjeRQJCWucqcd3ovz04tUee.jpg" tvg-name="Kathbirali (2020)"  group-title="BANGALI MOVIES",Kathbirali (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211477.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manojder Adbhut Bari (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8RfanoGi2NHy5hkZs7DOyNxupW.jpg" group-title="BANGALI MOVIES",Manojder Adbhut Bari (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8RfanoGi2NHy5hkZs7DOyNxupW.jpg" tvg-name="Manojder Adbhut Bari (2018)"  group-title="BANGALI MOVIES",Manojder Adbhut Bari (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robibaar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh1650bVShbicmYFC9my94jKykj.jpg" group-title="BANGALI MOVIES",Robibaar (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh1650bVShbicmYFC9my94jKykj.jpg" tvg-name="Robibaar (2019)"  group-title="BANGALI MOVIES",Robibaar (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhananjay (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLvE4abdkSy3vMtxO80yuPeT1D.jpg" group-title="BANGALI MOVIES",Dhananjay (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLvE4abdkSy3vMtxO80yuPeT1D.jpg" tvg-name="Dhananjay (2017)"  group-title="BANGALI MOVIES",Dhananjay (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211480.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dwitiyo Purush (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cxnc8bZ7GCIRw6OzYWvv8JqqwJ.jpg" group-title="BANGALI MOVIES",Dwitiyo Purush (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cxnc8bZ7GCIRw6OzYWvv8JqqwJ.jpg" tvg-name="Dwitiyo Purush (2020)"  group-title="BANGALI MOVIES",Dwitiyo Purush (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211481.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piya Re (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeG4OKaGTP3Mq76wfHKfyiYDvEJ.jpg" group-title="BANGALI MOVIES",Piya Re (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeG4OKaGTP3Mq76wfHKfyiYDvEJ.jpg" tvg-name="Piya Re (2018)"  group-title="BANGALI MOVIES",Piya Re (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211482.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bilu Rakkhosh (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj99rseBUWX-EmaZRl6LWmv5WNJQ-xt9PMd-tCwJUcNijxnuxV" group-title="BANGALI MOVIES",Bilu Rakkhosh (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj99rseBUWX-EmaZRl6LWmv5WNJQ-xt9PMd-tCwJUcNijxnuxV" tvg-name="Bilu Rakkhosh (2017)"  group-title="BANGALI MOVIES",Bilu Rakkhosh (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baishe Srabon (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg" group-title="BANGALI MOVIES",Baishe Srabon (2011)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg" tvg-name="Baishe Srabon (2011)"  group-title="BANGALI MOVIES",Baishe Srabon (2011)
 http://xtv.ooo:8080/movie/Sehrish/12345/211484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jodi Love Dile Na Prane (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CoFX2BUGJo16qpORzgSufQarK6.jpg" group-title="BANGALI MOVIES",Jodi Love Dile Na Prane (2014)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CoFX2BUGJo16qpORzgSufQarK6.jpg" tvg-name="Jodi Love Dile Na Prane (2014)"  group-title="BANGALI MOVIES",Jodi Love Dile Na Prane (2014)
 http://xtv.ooo:8080/movie/Sehrish/12345/211485.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Tui Amar Hero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" group-title="BANGALI MOVIES",Tui Amar Hero (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" tvg-name="Tui Amar Hero (2020)"  group-title="BANGALI MOVIES",Tui Amar Hero (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Hate Dhoka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" group-title="BANGALI MOVIES",Love Hate Dhoka (2020)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RfoIyzrzGOmWj8Se5ZI5jfcHbQ.jpg" tvg-name="Love Hate Dhoka (2020)"  group-title="BANGALI MOVIES",Love Hate Dhoka (2020)
 http://xtv.ooo:8080/movie/Sehrish/12345/211488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ray & Liz (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg" group-title="BANGALI MOVIES",Ray & Liz (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg" tvg-name="Ray & Liz (2018)"  group-title="BANGALI MOVIES",Ray & Liz (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211489.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jamai Badal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" group-title="BANGALI MOVIES",Jamai Badal (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckbt1I1ut29CWSMGMBkdPPhFlzg.jpg" tvg-name="Jamai Badal (2019)"  group-title="BANGALI MOVIES",Jamai Badal (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Switzerland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSIAb2xHBQ8xOLZqm2ltDrCqUpn.jpg" group-title="BANGALI MOVIES",Switzerland (2018)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSIAb2xHBQ8xOLZqm2ltDrCqUpn.jpg" tvg-name="Switzerland (2018)"  group-title="BANGALI MOVIES",Switzerland (2018)
 http://xtv.ooo:8080/movie/Sehrish/12345/211491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unicorn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6cugcc0jIfRSlvEAxx2M866p8e.jpg" group-title="BANGALI MOVIES",Unicorn (2021)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6cugcc0jIfRSlvEAxx2M866p8e.jpg" tvg-name="Unicorn (2021)"  group-title="BANGALI MOVIES",Unicorn (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211492.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barof (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="BANGALI MOVIES",Barof (2019)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" tvg-name="Barof (2019)"  group-title="BANGALI MOVIES",Barof (2019)
 http://xtv.ooo:8080/movie/Sehrish/12345/211493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jawker Dhan (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="BANGALI MOVIES",Jawker Dhan (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1MjdmM2ItMDAwZi00ZjQxLTkzODctNDY3MWMxOGMxM2QxXkEyXkFqcGdeQXVyMTAxOTgzNzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg" tvg-name="Jawker Dhan (2017)"  group-title="BANGALI MOVIES",Jawker Dhan (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guti Malhar Er Atithi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UUljq86NVkkBqbl6lpKMJnQVhL.jpg" group-title="BANGALI MOVIES",Guti Malhar Er Atithi (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UUljq86NVkkBqbl6lpKMJnQVhL.jpg" tvg-name="Guti Malhar Er Atithi (2017)"  group-title="BANGALI MOVIES",Guti Malhar Er Atithi (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K: Secret Eye (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icCn6JvHEp3KjTt9ApPAyUkhKVS.jpg" group-title="BANGALI MOVIES",K: Secret Eye (2017)
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icCn6JvHEp3KjTt9ApPAyUkhKVS.jpg" tvg-name="K: Secret Eye (2017)"  group-title="BANGALI MOVIES",K: Secret Eye (2017)
 http://xtv.ooo:8080/movie/Sehrish/12345/211497.mkv
 
