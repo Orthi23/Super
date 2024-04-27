@@ -6,14 +6,8 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BD-loc: Colors Bangla"  group-title="BANGLADESH",BD-loc: Colors Bangla
 http://xtv.ooo:8080/Sehrish/12345/245895
 
-#EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-name="IND-Bangla: Zee Bangla Cinema"  group-title="BANGLADESH",IND-Bangla: Zee Bangla Cinema
+#EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-name="Zee Bangla Cinema"  group-title="BANGLADESH",Zee Bangla Cinema
 http://xtv.ooo:8080/Sehrish/12345/245897
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" tvg-name="IND-Bangla: Star Jalsa HD"  group-title="BANGLADESH",IND-Bangla: Star Jalsa HD
-http://xtv.ooo:8080/Sehrish/12345/245898
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" tvg-name="IND-Bangla: Jalsa Movies HD"  group-title="BANGLADESH",IND-Bangla: Jalsa Movies HD
-http://xtv.ooo:8080/Sehrish/12345/245900
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-name="BD-loc: Gazi TV"  group-title="BANGLADESH",BD-loc: Gazi TV
 http://xtv.ooo:8080/Sehrish/12345/245901
@@ -195,9 +189,6 @@ http://xtv.ooo:8080/Sehrish/12345/246007
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://play-lh.googleusercontent.com/5kkuqfLE8ukxWVOkObzhiVO37shyj_DnuQL4qZEAKd4qaMhBF36H4mxs4ivLtvTF7nc" tvg-name="BD-UK: ATN BANGLA"  group-title="BANGLADESH",BD-UK: ATN BANGLA
 http://xtv.ooo:8080/Sehrish/12345/246010
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***IND: DRAMA (4K ULTRA HD)***"  group-title="INDIAN | 4K ULTRA HD",***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080/Sehrish/12345/109946
-
 #EXTINF:-1, tvg-id="colorshd.in" tvg-logo="http://openboxv8s.com/india/colors-in.png" tvg-name="Colors (4K)"  group-title="INDIAN | 4K ULTRA HD",Colors (4K)
 http://xtv.ooo:8080/Sehrish/12345/109947
 
@@ -218,9 +209,6 @@ http://xtv.ooo:8080/Sehrish/12345/109952
 
 #EXTINF:-1, tvg-id="sonysabhd.in" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" tvg-name="SONY SAB (4K)"  group-title="INDIAN | 4K ULTRA HD",SONY SAB (4K)
 http://xtv.ooo:8080/Sehrish/12345/109953
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***IND: MOVIES (4K ULTRA HD)***"  group-title="INDIAN | 4K ULTRA HD",***IND: MOVIES (4K ULTRA HD)***
-http://xtv.ooo:8080/Sehrish/12345/109954
 
 #EXTINF:-1, tvg-id="andpictureshd.in" tvg-logo="http://openboxv8s.com/india/and_pictures_in.jpg" tvg-name="&pictures (4K)"  group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
 http://xtv.ooo:8080/Sehrish/12345/109955
@@ -383,9 +371,6 @@ http://xtv.ooo:8080/Sehrish/12345/206296
 
 #EXTINF:-1, tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-name="IN | Nat Geo Wild FHD ENG"  group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
 http://xtv.ooo:8080/Sehrish/12345/206587
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***IND: SPORTS (4K ULTRA HD)***"  group-title="INDIAN | SPORTS 4K (ULTRA HD)",***IND: SPORTS (4K ULTRA HD)***
-http://xtv.ooo:8080/Sehrish/12345/109982
 
 #EXTINF:-1, tvg-id="sonyten1hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" tvg-name="Sony Ten 1 (4K)"  group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
 http://xtv.ooo:8080/Sehrish/12345/109983
@@ -768,9 +753,6 @@ http://xtv.ooo:8080/Sehrish/12345/26021
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Zahra Tv"  group-title="ISLAMIC",Al Zahra Tv
 http://xtv.ooo:8080/Sehrish/12345/26035
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***** IN | India *****"  group-title="INDIAN | ENTERTAINMENT",***** IN | India *****
-http://xtv.ooo:8080/Sehrish/12345/66161
-
 #EXTINF:-1, tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" tvg-name="IN | Zee TV"  group-title="INDIAN | ENTERTAINMENT",IN | Zee TV
 http://xtv.ooo:8080/Sehrish/12345/221250
 
@@ -1049,9 +1031,6 @@ http://xtv.ooo:8080/Sehrish/12345/66287
 
 #EXTINF:-1, tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-name="IN | Star Movies Select HD"  group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies Select HD
 http://xtv.ooo:8080/Sehrish/12345/66315
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***KIDS***"  group-title="INDIAN | KIDS Cartoon",***KIDS***
-http://xtv.ooo:8080/Sehrish/12345/106148
 
 #EXTINF:-1, tvg-id="cartoonnetworkhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" tvg-name="IN: Cartoon Network"  group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
 http://xtv.ooo:8080/Sehrish/12345/150478
