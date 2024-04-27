@@ -417,9 +417,6 @@ http://xtv.ooo:8080/Sehrish/12345/109994
 #EXTINF:-1, tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-name="IN: EUROPSPORT (4K)"  group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
 http://xtv.ooo:8080/Sehrish/12345/206324
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/255px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png" tvg-name="•●★--- Welcome ----★●•"  group-title="Unsorted",•●★--- Welcome ----★●•
-http://xtv.ooo:8080/Sehrish/12345/207416
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://msmoviesbd.com/wp-content/uploads/2021/01/1606674197_6.jpg" tvg-name="Nabab LLB: Chapter 2 (2021)"  group-title="BANGALI MOVIES",Nabab LLB: Chapter 2 (2021)
 http://xtv.ooo:8080/movie/Sehrish/12345/211390.mkv
 
@@ -1050,14 +1047,8 @@ http://xtv.ooo:8080/Sehrish/12345/66282
 #EXTINF:-1, tvg-id="zeecafehd.in" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-name="IN | Zee Cafe HD"  group-title="INDIAN | ENGLISH MOVIES",IN | Zee Cafe HD
 http://xtv.ooo:8080/Sehrish/12345/66287
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.epg.best/kr/AXN.kr.png" tvg-name="IN | AXN HD"  group-title="INDIAN | D2H ACTIVE",IN | AXN HD
-http://xtv.ooo:8080/Sehrish/12345/66313
-
 #EXTINF:-1, tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-name="IN | Star Movies Select HD"  group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies Select HD
 http://xtv.ooo:8080/Sehrish/12345/66315
-
-#EXTINF:-1, tvg-id="expressentertainment.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" tvg-name="PK | Express Entertainment"  group-title="PAKISTAN | ENTERTAINMENT",PK | Express Entertainment
-http://xtv.ooo:8080/Sehrish/12345/26010
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="***KIDS***"  group-title="INDIAN | KIDS Cartoon",***KIDS***
 http://xtv.ooo:8080/Sehrish/12345/106148
