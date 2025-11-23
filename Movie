@@ -1,0 +1,619 @@
+# Made BY ARAFAT
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg", AR TV
+https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg
+
+
+
+
+
+#Islamic
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HMBBbZD/images-q-tbn-ANd9-Gc-Q3z-H0-Lt-OT-Fp9-DCCRw-YZul-NOTp-KGpu6ylib77qj-Rphl7jco-Ck-Jx-Px2t-E-s-10.jpg" group-title="AR Islamic", Peace Tv Bangla 
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="AR Islamic",Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="AR Islamic",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+
+
+
+
+
+
+
+#FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",Betar 88.8
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",বেতার ঢাকা ক
+http://as11.digitalsynapsebd.com:8582/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",বেতার ঢাকা খ
+http://as31.digitalsynapsebd.com:8446/;stream.mp3
+
+
+
+
+
+#TV
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="AR TV",Motu Patlu
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrsjZ1v/doraemon.jpg" group-title="AR TV",Doraemon
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="AR TV",Oggy And The Cockroach
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23B6nk0t/images-q-tbn-ANd9-Gc-Qw-MMw-Yq-Cnov0-YK8-R-ezf-YMYL-ip-P0ii6z4r-Rk8g-H2qg5-Yz-L8thidjg-EJa-M-s-10.jpg" group-title="AR TV",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7pGtkJb/bantul.jpg" group-title="AR TV",Batul The Great
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg" group-title="AR TV",CID BANGLA 24/7
+https://tplay.live/playlist/mix/cid-bengali.index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg" group-title="AR TV",NATOK 24/7
+https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="AR TV",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="AR TV",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="AR TV",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgjmhdBS/Sananda-TV.jpg" group-title="AR TV",Sanonda TV
+https://live.sanonda.tv/sanonda/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="AR TV",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="AR TV",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="AR TV",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxpqcbXM/Nick.png" group-title="AR TV",Nick
+http://87.255.35.150:18249
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="AR TV",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="AR TV",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r23dPgYb/Channel-i.png" group-title="AR TV",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="AR TV",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="AR TV",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5RKZZ/images-q-tbn-ANd9-Gc-T6g1d-TEVO-q-N1e-Lg-T8l-G-z-IRHSFp-Sjtb-VQGcvd-GPz-Fe-Ffk-Zf-Y4-RVj-Bcvk-s-10.jpg" group-title="AR TV",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="AR TV",Tsports 
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkpBrQvM/TNT.png" group-title="AR TV",TNT Sports 1 HD
+https://l.lioncdn.net/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkpBrQvM/TNT.png" group-title="AR TV",A Sports HD
+https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR Movie",Colors Bangla
+http://87.255.35.150:18236
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRcs9bwh/Rajdhani-tv.jpg" group-title="AR TV",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-logo="https://mail.maasranga.tv/public/customize/newImage/logo.png" group-title="AR TV",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="AR TV",DesheBideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 group-title="AR TV" tvg-logo="https://i.ibb.co.com/r2L1bmdK/Star.png",Star Jalsha HD
+http://87.255.35.150:18237
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pv6qrVdr/Zee-Bangla.png" group-title="AR TV",Zee Bangla
+http://87.255.35.150:18238
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFrmG9Wx/Discovery.jpg" group-title="AR TV", Discovery
+http://87.255.35.150:18220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kggty0Dw/images-q-tbn-ANd9-Gc-RE44-Pv-JTp-l-SJ-xu98-Npk-QVQXs-Zusb1guov-N0-Q9r9-Uv-UU4-Kta8ov-M8-Yly-s-10.png" group-title="AR TV",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDfdzqrV/RM-Play.png" group-title="AR TV",RM Play
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+
+
+#Movies
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4H22rnD/Relay-2024.jpg" group-title="AR Movie",Relay (2024)
+https://pixeldrain.dev/api/file/R2kvYAtx
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zgZfcyC/Bison-2025.jpg" group-title="AR Movie",Bison Kaalamaadan (2025)
+https://pixeldrain.dev/api/file/HQWKcE9Z
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMGI2NmYtNmIyYS00MDA1LTg2MTgtMjY2ODJhYTllNWRhXkEyXkFqcGc@._V1_.jpg" group-title="AR Movie",The Bengal Files (2025)
+https://pixeldrain.dev/api/file/bC665TKz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rRws5Mw2/Manobjomin-2023.jpg" group-title="AR Movie",Manobjomin (2023)
+https://pixeldrain.dev/api/file/isLsehUX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNTv2Xd9/Mirai.jpg" group-title="AR Movie",Mirai (2025)
+https://pixeldrain.dev/api/file/DDC2FQ6P
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgMS3Qbd/Tomar-Jonno-Mon-2025.jpg" group-title="AR Movie",Tomar Jonno Mon (2025)
+https://pixeldrain.dev/api/file/FCh75GjY?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r2kWrPcS/Frankenstein-2025.jpg" group-title="AR Movie",Frankenstein (2025)
+https://pixeldrain.dev/api/file/FpMqAmeb
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU5OGFiN2QtZDBiZC00MjdiLTg5ZmMtNWI2Yjg2NGU0MzhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AR Movie",Baramulla (2025)
+https://pixeldrain.dev/api/file/EjhRfGRA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfkFZPQC/Anusandhan-2025.jpg" group-title="AR Movie",Anusandhan (2025) S01
+https://pixeldrain.dev/api/file/jsXpKGHE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFdYyQD7/300-2006.webp" group-title="AR Movie",300 (2006) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282006%29/300%20%282006%29%20720p%20%5BDual%20Audio%5D/300%20%282006%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFKTWP5y/The-Shawshank-Redemption-1994.webp" group-title="AR Movie",The Shawshank Redemption (1994) FTP
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/001.%20The%20Shawshank%20Redemption%20%281994%29%201080p%20%5BDual%20Audio%5D/The%20Shawshank%20Redemption%20%281994%29%20REM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/My8Z9Kxq/Interstellar-2014.webp" group-title="AR Movie",Interstellar (2014) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282014%29/Interstellar%20%282014%29%20720p%20%5BDual%20Audio%5D/Interstellar%20%282014%29%20IMAX%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jPnxtmXg/Whiplash-2014.webp" group-title="AR Movie", Whiplash (2014) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282014%29/Whiplash%20%282014%29%20720p/Whiplash.2014.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rfK6S3yP/The-Dark-Knight-2008.webp" group-title="AR Movie",The Dark Knight (2008) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282008%29/The%20Dark%20Knight%20%282008%29%20720p%20%5BDual%20Audio%5D/The%20Dark%20Knight%20%282008%29%20IMAX%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BEnglish%20DD5.1%2BHindi%20DD5.1%5D%20-%20KartiKing.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4wYmpLqV/Fight-Club-1999.webp" group-title="AR Movie",Fight Club (1999) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%281999%29/Fight%20Club%20%281999%29%20720p%20%5BDual%20Audio%5D/Fight%20Club%20%281999%29%20RM%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-%20mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6163Knr/Grahan-2021-S01.jpg" group-title="AR Movie",Grahan (2021) S01
+https://pixeldrain.dev/api/file/PCesmthq?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nq0Wwv7t/Rongila-Kitab-2024-S01.jpg" group-title="AR Movie",Rongila Kitab (2024) S01
+https://pixeldrain.dev/api/file/WMcLd64g?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/byfX0MN/Avrodh-the-Siege-Within-2022-S02.jpg" group-title="AR Movie",Avrodh the Siege Within (2022) S02
+https://pixeldrain.dev/api/file/tY7b1x2R?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JDc5KrY/Fereshteh-2025.jpg" group-title="AR Movie",Fereshteh (2025)
+https://pixeldrain.dev/api/file/fhFdWFvy?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9k6fB7tD/Jakes-Corner-2008.jpg" group-title="AR Movie",Jakes Corner (2008)
+https://pixeldrain.dev/api/file/yc1wBwoQ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SXr4qZnz/Amsterdam-Empire-2025-S01.jpg" group-title="AR Movie",Amsterdam Empire (2025) S01
+https://pixeldrain.dev/api/file/JhBxA3GM?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fYTTfXzj/The-Summer-Hikaru-Died-2025.jpg" group-title="AR Movie",The Summer Hikaru Died (2025) S01
+https://pixeldrain.dev/api/file/AZhzE1Y6?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/35RxfbzS/Avrodh-the-Siege-Within-2020-S01.jpg" group-title="AR Movie",Avrodh the Siege Within (2020) S01
+https://pixeldrain.dev/api/file/QaGRJQat?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHFxk8my/images-q-tbn-ANd9-Gc-Sr5-N7m-Ud-Wuf-HAm-C1-S2c-JO63-Xis-CCPTNax84-D4-O6-PDo-B-30-YTj7-FNVQi-CSp-s-10.jpg" group-title="AR Movie",The Taj Story (2025) Unofficial
+https://pixeldrain.dev/api/file/n3tjdtMc?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fhm1zzH/B-hubali-The-Epic-2025.jpg" group-title="AR Movie",Bāhubali The Epic (2025) HQ HDTC
+https://pixeldrain.dev/api/file/GKBMUpgt?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxNg7j3N/Lakkadbaggey-2025-S01.jpg" group-title="AR Movie",Lakkadbaggey (2025) S01
+https://pixeldrain.dev/api/file/Dm4Wu76f?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZMdb86m/Tornado-2025.jpg" group-title="AR Movie",Tornado (2025)
+https://pixeldrain.dev/api/file/G4vwp2aN?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD0yYGzh/Ganoshotru-2025-S01-Bengali-Zee5-WEB-DL-H264-AAC-4-K-1080p-720p-480p-ESu.webp" group-title="AR Movie",Ganoshotru (2025) S01
+https://pixeldrain.dev/api/file/v9hb9Puz?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkGVt59P/Ufff-Yeh-Siyapaa-2025.jpg" group-title="AR Movie",Ufff Yeh Siyapaa (2025)
+https://pixeldrain.dev/api/file/95f3A6wd?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sv7FVcsm/Lokah-Chapter-1-Chandra.jpg" group-title="AR Movie",Lokah Chapter 1 Chandra (2025)
+https://pixeldrain.dev/api/file/BhwXKSmr?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTvhgNFZ/Kantara-A-Legend-Chapter-1.jpg" group-title="AR Movie",Kantara A Legend Chapter 1 (2025)
+https://pixeldrain.dev/api/file/ZTdfkv5U?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxZ4sBD/Idli-Kadai-2025.jpg" group-title="AR Movie",Idli Kadai (2025)
+https://pixeldrain.dev/api/file/Mp1hFUwn?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrCCmTHn/The-pursuit-of-happiness.webp" group-title="AR Movie",The Pursuit of Happiness (2006) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282006%29/The%20Pursuit%20of%20Happyness%20%282006%29%20720p%20%5BDual%20Audio%5D/The%20Pursuit%20of%20Happyness%20%282006%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27dQH3Lm/Kismat-Ki-Lag-Gayi-2024.jpg" group-title="AR Movie",Kismat Ki Lag Gayi (2024)
+https://pixeldrain.dev/api/file/RDZm4rze?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6cnsx6GQ/Gladiator.jpg" group-title="AR Movie", Gladiator (2000) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/Gladiator%20%282000%29%20720p%20%5BDual%20Audio%5D/Gladiator%20%282000%29%20EXTENDED%20REM%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4rGDQg1/Gladiator-2.jpg" group-title="AR Movie", Gladiator II (2024) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282024%29/Gladiator%20II%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Gladiator%20II%20%282024%29%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKHcd1GQ/Detective-2020.jpg" group-title="AR Movie",Detective (2020)
+https://pixeldrain.dev/api/file/dwDbyTyY?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWf6Ptzx/Animal-2023.jpg" group-title="AR Movie",Animal (2023) FTP
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Animal%20%282023%29%201080p/Animal%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wFL8JL04/Eden-2024.jpg" group-title="AR Movie",Eden (2025)
+https://pixeldrain.dev/api/file/uVHp9hwF?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/prvYNCmC/Bhadrakaali-2025.jpg" group-title="AR Movie",Bhadrakaali (2025)
+https://pixeldrain.dev/api/file/v8YnXXez?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGqHGPgk/Grihapravesh-2025.jpg" group-title="AR Movie",Grihapravesh (2025)
+https://pixeldrain.dev/api/file/LH9Szd3B?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7QxvxVJ/Elevation.jpg" group-title="AR Movie",Elevation (2024)
+https://pixeldrain.dev/api/file/jeVdMnUx?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps0sYfmg/12th-Fail.jpg" group-title="AR Movie",12th Fail (2023) FTP
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/12th%20Fail%20%282023%29%201080p/12th%20Fail%20%282023%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpgpbHDw/They-Call-Him-OG.jpg" group-title="AR Movie",They Call Him OG (2025)
+https://pixeldrain.dev/api/file/NfDwC2vQ?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z68htTkV/Thamma.jpg" group-title="AR Movie",Thamma (2025) HQ HDTC
+https://pixeldrain.dev/api/file/o42U8GdY?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9m2PGmDN/Harlan-Cobens-Lazarus-2025-S01-Dual-Audio-Hindi-ORG-English-Amazon-WEB-DL-H264-AAC-1080p-720p-480p-E.webp" group-title="AR Movie",Harlan Cobens Lazarus (2025) S01
+https://pixeldrain.dev/api/file/grZ69daB?download
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G3NSQjbH/Velayudham-Shahenshah-2023-Bengali-Dubbed-ORG-Bongo-BD-WEB-DL-H264-AAC-1080p-720p-480p-Download.webp" group-title="AR Movie",Velayudham-Shahenshah (2023)
+https://pixeldrain.dev/api/file/L6CmrgUW?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4DcGv4H/Tu-Jhoothi-Main-Makkaar.jpg" group-title="AR Movie",Tu Jhoothi Main Makkaar (2023) FTP
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Tu%20Jhoothi%20Main%20Makkaar%20%282023%29%201080p/Tu%20Jhoothi%20Main%20Makkaar%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20DownloadHub.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxvGfZjK/MV5-BMj-Iy-MTlm-OTct-MWJl-Ny00-Nz-Vi-LThk-ZTct-Nm-M2-ODUy-ZGYw-NTRj-Xk-Ey-Xk-Fqc-Gc-V1-SX300.jpg" group-title="AR Movie",Shinchan Our Dinosaur Diary (2025)
+https://pixeldrain.dev/api/file/kwPYr6hm?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zhzqpv2f/Nokshi-kathar-jomin.jpg" group-title="AR Movie",Nokshi Kathar Jomin (2025)
+https://pixeldrain.dev/api/file/cqYH6XV6?downlo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RLrJW5Y/War-2.jpg" group-title="AR Movie",War 2 (2025)
+https://pixeldrain.dev/api/file/btdYjrP5?downlo
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pyBjMgT/The-Journey-Ababil.jpg" group-title="AR Movie",The Journey-Ababil (2025)
+https://pixeldrain.dev/api/file/4pQDrQgJ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/239Y5sPz/Girgity-2025-S01-Bengali-Bongo-BD-WEB-DL-H264-AAC-4-K-1080p-720p-480p-Download.webp" group-title="AR Movie",Girgity (2025) S01
+https://pixeldrain.dev/api/file/SQLECYS9?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ycwg3dLc/Lipstick-2024-Bengali-Toffee-WEB-DL-H264-AAC-1080p-720p-480p-Download.webp" group-title="AR Movie",Lipstick (2024)
+https://pixeldrain.dev/api/file/mbmYge5n?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGvkt3tc/Bahubali-Movie.jpg" group-title="AR Movie",Baahubali (2015)
+https://fsl.anime4u.co/Baahubali.2015.720p.Blu-Ray.Hindi.x264-Vegamovies.is.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0ZTdkZTctODEyMi00MjJjLWIwOGUtZmZhNzVkNGVkYWY0XkEyXkFqcGc@._V1_SX300.jpg" group-title="AR Movie",Madam Sengupta (2025) 
+https://pixeldrain.dev/api/file/CX51K3m6?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RXbPy4J/Aka-2025-S01-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-ESu.webp" group-title="AR Movie",Aka (2025) S01
+https://pixeldrain.dev/api/file/GBJXjYzh?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvN4ZcNS/Nishir-Daak-2025-S01-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-ESu.jpg" group-title="AR Movie",Nishir Daak (2025) S01
+https://pixeldrain.dev/api/file/FVTyEZjP?download
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhkNTYyNTAtOWNmNy00ZDc0LWEyZTQtNzExMjQzODEwYjBlXkEyXkFqcGc@._V1_SX300.jpg" group-title="AR Movie",Robindronath Ekhane Kawkhono Khete Aashenni (2021) S01
+https://pixeldrain.dev/api/file/JV94197t?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/My1951sw/Bhootteriki-2025-S01-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-ESu.webp" group-title="AR Movie",Bhootteriki (2025) S01
+https://pixeldrain.dev/api/file/DsWbBhtN?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9b05dkC/Gerakol.jpg" group-title="AR Movie",Gerakol (2025)
+https://pixeldrain.dev/api/file/7odGqAtn?download
+
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYFThhrj/The-Stoneman-Murders.webp" group-title="AR Movie",The Stoneman Murders (2019)
+https://pixeldrain.dev/api/file/85PMSWfv?download
+
+EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2025/04/Dakghor-2023-S01-Bengali-AMZN-WEB-DL-H264-AAC-1080p-720p-480p-ESu-203x300.jpg" group-title="AR Movie",Dakghor (2023)
+https://pixeldrain.dev/api/file/B6qu2TgL?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrsxfhyh/Myself-Alan-swapon-S01.jpg" group-title="AR Movie",Myself Allen Swapan (2023) S01
+https://pixeldrain.dev/api/file/2JjSCTes?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RbH0fCC/Myself-Alan-Swapon-S02.jpg" group-title="AR Movie",Myself Allen Swapan (2025) S02
+https://pixeldrain.dev/api/file/mmK4dJYW?download
+
+
+#EXTINF:-1 tvg-logo="https://joya9tv1.com/wp-content/uploads/2025/05/The-Silence-2023-S01-Bengali-Binge-WEB-DL-H264-AAC-1080p-720p-480p-HC-ESub-240x300.jpg" group-title="AR Movie",The Silence (2023) S01
+https://pixeldrain.dev/api/file/WM4iyCGa?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNfVCm62/Chokkor.jpg" group-title="AR Movie",Chokkor 302 (2025)
+https://pixeldrain.dev/api/file/Wv2dumSF?download 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DfDdfgxG/kakababu.jpg" group-title="AR Movie",Kakababur Protyaborton (2022) 
+https://pixeldrain.dev/api/file/zGAgHY9S?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8gDrvSZT/superman-2025.jpg" group-title="AR Movie",Superman (2025)
+https://pixeldrain.dev/api/file/i81NTE6A?download
+
+EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2025/08/Taandob-2025-Bengali-Amazon-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-ESub-240x300.webp" group-title="AR Movie",Taandob (2025) 
+https://pixeldrain.dev/api/file/W4R43Hfw?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbkYzRWg/Advocate-Achinta-Aich-2025-S02-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-ESu-203x300.jpg" group-title="AR Movie",Advocate Achinta Aich (2025) S02
+https://pixeldrain.dev/api/file/fmNigNbZ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdPBMDHq/Special-Ops-2020-S01-Bengali-Dubbed-ORG-JHS-WEB-DL-H264-AAC-1080p-720p-480p-ESu-203x300.jpg" group-title="AR Movie",Special Ops (2020) S01
+https://pixeldrain.dev/api/file/edJ36BDc?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27n6JDWK/Special-OPS-2025-S02-Dual-Audio-Bengali-ORG-Hindi-ORG-JHS-WEB-Rip-H264-AAC-1080p-720p-480p-ESu-240x3.webp" group-title="AR Movie",Special Ops (2025) S02
+https://pixeldrain.dev/api/file/edJ36BDc?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cK7KLTLJ/images-q-tbn-ANd9-Gc-Sn-Ilgpa-Krc-J8-Gp-Dc-PFFf-WH-djk4-B2-MTLUVg-usqp-CAU.jpg" group-title="AR Movie",Raktabeej (2023)
+https://pixeldrain.dev/api/file/Hne53pns?download
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVkZDM5ZjYtNzJlZC00YTcyLTg0MzktMDVmYTU0ODM3YmZkXkEyXkFqcGc@._V1_SX300.jpg" group-title="AR Movie",Feluda Pherot S01 (2020)
+https://pixeldrain.dev/api/file/ifq3jMtR?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vvD0Y4bt/Feluda-Ferot-Jawto-Kando-Kathmandute-2025-S02-Bengali-AT-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg" group-title="AR Movie",Feluda Ferot-Jawto Kando Kathmandute S02 (2025)
+https://pixeldrain.dev/api/file/5PT8Bcma?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6FdcRny/Killbill-Society-2025-Bengali-Amazon-WEB-DL-H264-AAC-1080p-720p-480p-ESu.webp group-title="AR Movie",Killbill Society (2025)
+https://pixeldrain.dev/api/file/7gwvkgN3?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JW8BCqMB/Coolie-2025-Tamil-Amazon-WEB-DL-H264-AAC-4-K-1080p-720p-480p-ESu.webp" group-title="AR Movie", Coolie (2025)
+https://pixeldrain.dev/api/file/R3wqYYrv?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8LmZ63p/Utshob-2025-Bengali-Chorki-WEB-Rip-H264-AAC-1080p-720p-480p-ESub.jpg" group-title="AR Movie",Utshob (2025)
+https://pixeldrain.dev/api/file/W3wmrGiJ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j9kvbb12/13th.jpg" group-title="AR Movie",13th Some Lessons Arent Taught In Classrooms (2025)
+https://pixeldrain.dev/api/file/YC4zsTVk?download
+
+
+
+
+
+#Breakig Bad
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E01
+https://pixeldrain.com/api/file/Cdhv3S8g?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E02
+https://pixeldrain.com/api/file/oHAmiosQ?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E03
+https://pixeldrain.com/api/file/Tftu1iBV?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E04
+https://pixeldrain.com/api/file/55GLUUx1?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E05
+https://pixeldrain.com/api/file/GScAU274?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E06
+https://pixeldrain.com/api/file/9xUPx77f?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E07
+https://pixeldrain.com/api/file/S14EwdS5?download
+
+
+
+
+
+#MCU
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Iron Man (2008)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/02%20-%20The%20Incredible%20Hulk%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",The Incredible Hulk (2008)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/02%20-%20The%20Incredible%20Hulk%20%282008%29%201080p%20%5BDual%20Audio%5D/The%20Incredible%20Hulk%20%282008%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-Ranvijay.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/03%20-%20Iron%20Man%202%20%282010%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Iron Man 2 (2010)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/03%20-%20Iron%20Man%202%20%282010%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%202%20%282010%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/04%20-%20Thor%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Thor (2011)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/04%20-%20Thor%20%282011%29%201080p%20%5BDual%20Audio%5D/Thor%20%282011%29%201080p%20BluRay%20DTS%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain America: The First Avenger (2011)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/06%20-%20The%20Avengers%20%282012%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",The Avengers (2012)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/06%20-%20The%20Avengers%20%282012%29%201080p%20%5BDual%20Audio%5D/The%20Avengers%20%282012%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/07%20-%20Iron%20Man%203%20%282013%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Iron Man 3 (2013)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/07%20-%20Iron%20Man%203%20%282013%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%203%20%282013%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/08%20-%20Thor-The%20Dark%20World%20%282013%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Thor-The Dark World (2013)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/08%20-%20Thor-The%20Dark%20World%20%282013%29%201080p%20%5BDual%20Audio%5D/Thor-The%20Dark%20World%20%282013%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/09%20-%20Captain%20America-The%20Winter%20Soldier%20%282014%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain America-The Winter Soldier (2014)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/09%20-%20Captain%20America-The%20Winter%20Soldier%20%282014%29%201080p%20%5BDual%20Audio%5D/Captain%20America-The%20Winter%20Soldier%20%282014%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/10%20-%20Guardians%20of%20the%20Galaxy%20%282014%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Guardians Of The Galaxy (2014)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/10%20-%20Guardians%20of%20the%20Galaxy%20%282014%29%201080p%20%5BDual%20Audio%5D/Guardians%20of%20the%20Galaxy%20%282014%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/11%20-%20Avengers-Age%20of%20Ultron%20%282015%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Avengers-Age of Ultron (2015)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/11%20-%20Avengers-Age%20of%20Ultron%20%282015%29%201080p%20%5BDual%20Audio%5D/Avengers-Age%20of%20Ultron%20%282015%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/12%20-%20Ant-Man%20%282015%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Ant-Man (2015)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/12%20-%20Ant-Man%20%282015%29%201080p%20%5BDual%20Audio%5D/Ant-Man%20%282015%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/13%20-%20Captain%20America-Civil%20War%20%282016%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain America-Civil War (2016)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/13%20-%20Captain%20America-Civil%20War%20%282016%29%201080p%20%5BDual%20Audio%5D/Captain%20America-Civil%20War%20%282016%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/14%20-%20Doctor%20Strange%20%282016%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Doctor Strange (2016)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/14%20-%20Doctor%20Strange%20%282016%29%201080p%20%5BDual%20Audio%5D/Doctor%20Strange%20%282016%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2B%20English%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/15%20-%20Guardians%20of%20the%20Galaxy%20Vol.%202%20%282017%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Guardians Of The Galaxy Vol.2
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/15%20-%20Guardians%20of%20the%20Galaxy%20Vol.%202%20%282017%29%201080p%20%5BDual%20Audio%5D/Guardians%20of%20the%20Galaxy%20Vol.%202%20%282017%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/16%20-%20Spider-Man%20-%20Homecoming%20%282017%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Spider-Man-Homecoming (2017)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/16%20-%20Spider-Man%20-%20Homecoming%20%282017%29%201080p%20%5BDual%20Audio%5D/Spider-Man%20Homecoming%20%282017%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/17%20-%20Thor-Ragnarok%20%282017%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Thor-Ragnarok (2017)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/17%20-%20Thor-Ragnarok%20%282017%29%201080p%20%5BDual%20Audio%5D/Thor%20Ragnarok%20%282017%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/18%20-%20Black%20Panther%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Black Panther (2018)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/18%20-%20Black%20Panther%20%282018%29%201080p%20%5BDual%20Audio%5D/Black%20Panther%20%282018%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/19%20-%20Avengers-Infinity%20War%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Avengers-Infinity War (2018)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/19%20-%20Avengers-Infinity%20War%20%282018%29%201080p%20%5BDual%20Audio%5D/Avengers-Infinity%20War%20%282018%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/20%20-%20Ant-Man%20and%20the%20Wasp%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Ant-Man and the Wasp (2018)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/20%20-%20Ant-Man%20and%20the%20Wasp%20%282018%29%201080p%20%5BDual%20Audio%5D/Ant-Man%20and%20the%20Wasp%20%282018%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/21%20-%20Captain%20Marvel%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain Marvel (2019)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/21%20-%20Captain%20Marvel%20%282019%29%201080p%20%5BDual%20Audio%5D/Captain%20Marvel%20%282019%29%20RM4K%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-Ranvijay.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/22%20-%20Avengers-Endgame%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Avengers-Endgame (2019)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/22%20-%20Avengers-Endgame%20%282019%29%201080p%20%5BDual%20Audio%5D/Avengers-Endgame%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/23%20-%20Spider-Man%20-%20Far%20from%20Home%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Spider-Man-Far From Home (2019)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/23%20-%20Spider-Man%20-%20Far%20from%20Home%20%282019%29%201080p%20%5BDual%20Audio%5D/Spider-Man%20Far%20from%20Home%20%282019%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/24%20-%20Black%20Widow%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Black Widow (2021)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/24%20-%20Black%20Widow%20%282021%29%201080p%20%5BDual%20Audio%5D/Black%20Widow%20%282021%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/25%20-%20Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Shang Chi (2021)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/25%20-%20Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20%282021%29%201080p%20%5BDual%20Audio%5D/Shang%20Chi%20%282021%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/26%20-%20Eternals%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Eternals (2021)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/26%20-%20Eternals%20%282021%29%201080p%20%5BDual%20Audio%5D/Eternals%20%282021%29%201080p%20BluRay%20x265%20HEVC%2010bit%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/27%20-%20Spider-Man%20-%20No%20Way%20Home%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Spider-Man - No Way Home (2021)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/27%20-%20Spider-Man%20-%20No%20Way%20Home%20%282021%29%201080p%20%5BDual%20Audio%5D/Spider-Man%20No%20Way%20Home%20%282021%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/28%20-%20Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Doctor Strange in the Multiverse of Madness (2022)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/28%20-%20Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20%5BDual%20Audio%5D/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%20IMAX%201080p%20DSNP-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/29%20-%20Thor-Love%20and%20Thunder%20%282022%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Thor-Love and Thunder (2022)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/29%20-%20Thor-Love%20and%20Thunder%20%282022%29%201080p%20%5BDual%20Audio%5D/Thor%20Love%20and%20Thunder%20%282022%29%20IMAX%201080p%20DSNP-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/30%20-%20Black%20Panther-Wakanda%20Forever%20%282022%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Black Panther-Wakanda Forever (2022)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/30%20-%20Black%20Panther-Wakanda%20Forever%20%282022%29%201080p%20%5BDual%20Audio%5D/Black%20Panther%20Wakanda%20Forever%20%282022%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/31%20-%20Ant-Man%20and%20the%20Wasp-Quantumania%20%282023%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Ant-Man and the Wasp-Quantumania (2023)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/31%20-%20Ant-Man%20and%20the%20Wasp-Quantumania%20%282023%29%201080p%20%5BDual%20Audio%5D/Ant-Man%20and%20the%20Wasp%20Quantumania%20%282023%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/32%20-%20Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Guardians Of The Galaxy Vol.3 (2023)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/32%20-%20Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%201080p%20%5BDual%20Audio%5D/Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%201080p%20BluRay%20x265%20HEVC%20MEub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF1Dwt0P/images-q-tbn-ANd9-Gc-TNst2-ZJS4-c-VPp-GYf7f-Td4c6lg7-Jf-Crqr7jt-Kf0-MUNn-Ntj1u3-EXFqa3-Kn-s-10.jpg" group-title="AR MCU (FTP)",The Marvels (2023)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/33%20-%20The%20Marvels%20%282023%29%201080p%20%5BDual%20Audio%5D/The%20Marvels%20%282023%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%207.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/34%20-%20Deadpool%20%26%20Wolverine%20%282024%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Deadpool & Wolverine (2024)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/34%20-%20Deadpool%20%26%20Wolverine%20%282024%29%201080p%20%5BDual%20Audio%5D/Deadpool%20And%20Wolverine%20%282024%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/35%20-%20Captain%20America-Brave%20New%20World%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain America Brave New World (2025)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/35%20-%20Captain%20America-Brave%20New%20World%20%282025%29%201080p%20%5BDual%20Audio%5D/Captain%20America%20Brave%20New%20World%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/36%20-%20Thunderbolts%E2%98%85%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Thunderbolt* (2025)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/36%20-%20Thunderbolts%E2%98%85%20%282025%29%201080p%20%5BDual%20Audio%5D/Thunderbolts%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+
+
+
+
+#One Punch Man 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP01
+https://pixeldrain.dev/api/file/aEsCPVNB?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP02 
+https://pixeldrain.dev/api/file/NmBs2fqM?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP03
+https://pixeldrain.dev/api/file/zVyYFDPw?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP04
+https://pixeldrain.dev/api/file/BwUyNZ6J?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP05
+https://pixeldrain.dev/api/file/J2bohwMs?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP06
+https://pixeldrain.dev/api/file/NksmTwpX?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP07
+https://pixeldrain.dev/api/file/hWH7Pj3k?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP08
+https://pixeldrain.dev/api/file/RqTDkKEi?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP09
+https://pixeldrain.dev/api/file/28JhwTjZ?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP10
+https://pixeldrain.dev/api/file/iKxobxwg?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP11
+https://pixeldrain.dev/api/file/mcb9ge7A?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP12
+https://pixeldrain.dev/api/file/UDqyWwsr?download
+
+
+
+#Naruto
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP01
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E001%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP02
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E002%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP03
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E003%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP04
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E004%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP05
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E005%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP06
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E006%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP07
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E007%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP08
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E008%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP09
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E009%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP10
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E010%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP11
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E011%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP12
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E012%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP13
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E013%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP14
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E014%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP15
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E015%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP16
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E016%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP17
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E017%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP18
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E018%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP19
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E019%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP20
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E020%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP21
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E021%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP22
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E022%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP23
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E023%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP24
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E024%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP25
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E025%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP26
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E026%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP27
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20-%20027%20%5B1080p%20BD%20x265%2010bit%20Multi%20Audio%5D%20ESub.mkv
