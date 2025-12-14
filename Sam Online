@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg" group-title="All",AR TV
-https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6FdcRny/Killbill-Society-2025-Bengali-Amazon-WEB-DL-H264-AAC-1080p-720p-480p-ESu.webp group-title=" group-title="All",AR Movie",Killbill Society (2025)
-https://pixeldrain.dev/api/file/7gwvkgN3?download
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",বেতার ঢাকা ক
-http://as11.digitalsynapsebd.com:8582/;stream.mp3
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",বেতার ঢাকা খ
-http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="AR TV",Motu Patlu
 https://tplay.live/playlist/kids/motu-patlu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrsjZ1v/doraemon.jpg" group-title="AR TV",Doraemon
